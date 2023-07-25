@@ -1,0 +1,7200 @@
+{
+  "RootWords": [
+    {
+      "root_id": 0,
+      "root_word": "ا ث م"
+    },
+    {
+      "root_id": 1,
+      "root_word": "ز ح ز ح"
+    },
+    {
+      "root_id": 2,
+      "root_word": "خ م د"
+    },
+    {
+      "root_id": 3,
+      "root_word": "م ر د"
+    },
+    {
+      "root_id": 4,
+      "root_word": "ص و ب"
+    },
+    {
+      "root_id": 5,
+      "root_word": "م ج س"
+    },
+    {
+      "root_id": 6,
+      "root_word": "ذ ي ع"
+    },
+    {
+      "root_id": 7,
+      "root_word": "ز ل ز ل"
+    },
+    {
+      "root_id": 8,
+      "root_word": "ذ و ق"
+    },
+    {
+      "root_id": 9,
+      "root_word": "ق و ع"
+    },
+    {
+      "root_id": 10,
+      "root_word": "ب ع ر"
+    },
+    {
+      "root_id": 11,
+      "root_word": "ا ن ن م"
+    },
+    {
+      "root_id": 12,
+      "root_word": "ج ذ ذ"
+    },
+    {
+      "root_id": 13,
+      "root_word": "س ا م"
+    },
+    {
+      "root_id": 14,
+      "root_word": "س م و"
+    },
+    {
+      "root_id": 15,
+      "root_word": "د م د م"
+    },
+    {
+      "root_id": 16,
+      "root_word": "م ل ك"
+    },
+    {
+      "root_id": 17,
+      "root_word": "م ك ك"
+    },
+    {
+      "root_id": 18,
+      "root_word": "ع ش ي"
+    },
+    {
+      "root_id": 19,
+      "root_word": "ن"
+    },
+    {
+      "root_id": 20,
+      "root_word": "ح ج ج"
+    },
+    {
+      "root_id": 21,
+      "root_word": "ط ل ق"
+    },
+    {
+      "root_id": 22,
+      "root_word": "ز ي ل"
+    },
+    {
+      "root_id": 23,
+      "root_word": "ش ف ع"
+    },
+    {
+      "root_id": 24,
+      "root_word": "خ ر ط م"
+    },
+    {
+      "root_id": 25,
+      "root_word": "خ ت م"
+    },
+    {
+      "root_id": 26,
+      "root_word": "ز ر ع"
+    },
+    {
+      "root_id": 27,
+      "root_word": "ا ز ف"
+    },
+    {
+      "root_id": 28,
+      "root_word": "د ر ر"
+    },
+    {
+      "root_id": 29,
+      "root_word": "غ ط ش"
+    },
+    {
+      "root_id": 30,
+      "root_word": "خ ل ق"
+    },
+    {
+      "root_id": 31,
+      "root_word": "ا ر م"
+    },
+    {
+      "root_id": 32,
+      "root_word": "خ ص ص"
+    },
+    {
+      "root_id": 33,
+      "root_word": "و ذ ر"
+    },
+    {
+      "root_id": 34,
+      "root_word": "ل ب س"
+    },
+    {
+      "root_id": 35,
+      "root_word": "ن ح ل"
+    },
+    {
+      "root_id": 36,
+      "root_word": "ف ا د"
+    },
+    {
+      "root_id": 37,
+      "root_word": "م ك ن"
+    },
+    {
+      "root_id": 38,
+      "root_word": "ا ن ن"
+    },
+    {
+      "root_id": 39,
+      "root_word": "ص ف ر"
+    },
+    {
+      "root_id": 40,
+      "root_word": "ل ف ح"
+    },
+    {
+      "root_id": 41,
+      "root_word": "ت و ب"
+    },
+    {
+      "root_id": 42,
+      "root_word": "ه م ن"
+    },
+    {
+      "root_id": 43,
+      "root_word": "ض ي ق"
+    },
+    {
+      "root_id": 44,
+      "root_word": "ع و ق"
+    },
+    {
+      "root_id": 45,
+      "root_word": "م ك ل"
+    },
+    {
+      "root_id": 46,
+      "root_word": "ن ص ر"
+    },
+    {
+      "root_id": 47,
+      "root_word": "م ز ن"
+    },
+    {
+      "root_id": 48,
+      "root_word": "ض ي ف"
+    },
+    {
+      "root_id": 49,
+      "root_word": "ع س ر"
+    },
+    {
+      "root_id": 50,
+      "root_word": "ع م ي"
+    },
+    {
+      "root_id": 51,
+      "root_word": "ح ن ث"
+    },
+    {
+      "root_id": 52,
+      "root_word": "ش م ت"
+    },
+    {
+      "root_id": 53,
+      "root_word": "س ح ق"
+    },
+    {
+      "root_id": 54,
+      "root_word": "ف ص م"
+    },
+    {
+      "root_id": 55,
+      "root_word": "خ ر ص"
+    },
+    {
+      "root_id": 56,
+      "root_word": "ث ق ف"
+    },
+    {
+      "root_id": 57,
+      "root_word": "خ و ر"
+    },
+    {
+      "root_id": 58,
+      "root_word": "ط و ق"
+    },
+    {
+      "root_id": 59,
+      "root_word": "ر ف د"
+    },
+    {
+      "root_id": 60,
+      "root_word": "ط م ث"
+    },
+    {
+      "root_id": 61,
+      "root_word": "ك ر ه"
+    },
+    {
+      "root_id": 62,
+      "root_word": "ن ص و"
+    },
+    {
+      "root_id": 63,
+      "root_word": "ث م م"
+    },
+    {
+      "root_id": 64,
+      "root_word": "ا ث ر"
+    },
+    {
+      "root_id": 65,
+      "root_word": "خ ض د"
+    },
+    {
+      "root_id": 66,
+      "root_word": "و ه ي"
+    },
+    {
+      "root_id": 67,
+      "root_word": "ض ر ر"
+    },
+    {
+      "root_id": 68,
+      "root_word": "ف ت ن"
+    },
+    {
+      "root_id": 69,
+      "root_word": "ص د ر"
+    },
+    {
+      "root_id": 70,
+      "root_word": "س د د"
+    },
+    {
+      "root_id": 71,
+      "root_word": "ع ق ل"
+    },
+    {
+      "root_id": 72,
+      "root_word": "س ب ت"
+    },
+    {
+      "root_id": 73,
+      "root_word": "ك ب ك ب"
+    },
+    {
+      "root_id": 74,
+      "root_word": "و ج ف"
+    },
+    {
+      "root_id": 75,
+      "root_word": "و ه ن"
+    },
+    {
+      "root_id": 76,
+      "root_word": "ج ر ع"
+    },
+    {
+      "root_id": 77,
+      "root_word": "س ر و"
+    },
+    {
+      "root_id": 78,
+      "root_word": "ك ن ن"
+    },
+    {
+      "root_id": 79,
+      "root_word": "ن غ ض"
+    },
+    {
+      "root_id": 80,
+      "root_word": "ت ي ه"
+    },
+    {
+      "root_id": 81,
+      "root_word": "ص ف ف"
+    },
+    {
+      "root_id": 82,
+      "root_word": "ف و ض"
+    },
+    {
+      "root_id": 83,
+      "root_word": "ت س ع"
+    },
+    {
+      "root_id": 84,
+      "root_word": "م ش ي"
+    },
+    {
+      "root_id": 85,
+      "root_word": "ص ب ي"
+    },
+    {
+      "root_id": 86,
+      "root_word": "ن م ل"
+    },
+    {
+      "root_id": 87,
+      "root_word": "ح ش ر"
+    },
+    {
+      "root_id": 88,
+      "root_word": "ر ك ب"
+    },
+    {
+      "root_id": 89,
+      "root_word": "ح و ر"
+    },
+    {
+      "root_id": 90,
+      "root_word": "ن س ي"
+    },
+    {
+      "root_id": 91,
+      "root_word": "ي ا س"
+    },
+    {
+      "root_id": 92,
+      "root_word": "غ ي ر"
+    },
+    {
+      "root_id": 93,
+      "root_word": "ع ن د"
+    },
+    {
+      "root_id": 94,
+      "root_word": "د ح ض"
+    },
+    {
+      "root_id": 95,
+      "root_word": "ه ي ج"
+    },
+    {
+      "root_id": 96,
+      "root_word": "ز و ر"
+    },
+    {
+      "root_id": 97,
+      "root_word": "س و ا"
+    },
+    {
+      "root_id": 98,
+      "root_word": "و ج ه"
+    },
+    {
+      "root_id": 99,
+      "root_word": "ف ر ه"
+    },
+    {
+      "root_id": 100,
+      "root_word": "ع ص ف"
+    },
+    {
+      "root_id": 101,
+      "root_word": "ب غ ض"
+    },
+    {
+      "root_id": 102,
+      "root_word": "ط ه ر"
+    },
+    {
+      "root_id": 103,
+      "root_word": "خ د ن"
+    },
+    {
+      "root_id": 104,
+      "root_word": "س ه ر"
+    },
+    {
+      "root_id": 105,
+      "root_word": "ا س س"
+    },
+    {
+      "root_id": 106,
+      "root_word": "ع ر ش"
+    },
+    {
+      "root_id": 107,
+      "root_word": "ا ن ا"
+    },
+    {
+      "root_id": 108,
+      "root_word": "ح ص ن"
+    },
+    {
+      "root_id": 109,
+      "root_word": "ل ب ن"
+    },
+    {
+      "root_id": 110,
+      "root_word": "ص و ع"
+    },
+    {
+      "root_id": 111,
+      "root_word": "خ ي ط"
+    },
+    {
+      "root_id": 112,
+      "root_word": "غ ن ي"
+    },
+    {
+      "root_id": 113,
+      "root_word": "ح ر ر"
+    },
+    {
+      "root_id": 114,
+      "root_word": "ه ا ت ي"
+    },
+    {
+      "root_id": 115,
+      "root_word": "ش ع ر"
+    },
+    {
+      "root_id": 116,
+      "root_word": "ص و ر"
+    },
+    {
+      "root_id": 117,
+      "root_word": "ن ض خ"
+    },
+    {
+      "root_id": 118,
+      "root_word": "س ح ب"
+    },
+    {
+      "root_id": 119,
+      "root_word": "ب ل"
+    },
+    {
+      "root_id": 120,
+      "root_word": "ح ي ي  ا"
+    },
+    {
+      "root_id": 121,
+      "root_word": "ش ه ر"
+    },
+    {
+      "root_id": 122,
+      "root_word": "ه د م"
+    },
+    {
+      "root_id": 123,
+      "root_word": "ض ن ك"
+    },
+    {
+      "root_id": 124,
+      "root_word": "ج م م"
+    },
+    {
+      "root_id": 125,
+      "root_word": "ل و ذ"
+    },
+    {
+      "root_id": 126,
+      "root_word": "ق ش ع ر"
+    },
+    {
+      "root_id": 127,
+      "root_word": "ع م م"
+    },
+    {
+      "root_id": 128,
+      "root_word": "ن ك ص"
+    },
+    {
+      "root_id": 129,
+      "root_word": "ع د س"
+    },
+    {
+      "root_id": 130,
+      "root_word": "و د ع"
+    },
+    {
+      "root_id": 131,
+      "root_word": "ه ا ك"
+    },
+    {
+      "root_id": 132,
+      "root_word": "ض ر ب"
+    },
+    {
+      "root_id": 133,
+      "root_word": "ز و ل"
+    },
+    {
+      "root_id": 134,
+      "root_word": "ش ك ك"
+    },
+    {
+      "root_id": 135,
+      "root_word": "ر ي ش"
+    },
+    {
+      "root_id": 136,
+      "root_word": "ب ر ص"
+    },
+    {
+      "root_id": 137,
+      "root_word": "ه ل ع"
+    },
+    {
+      "root_id": 138,
+      "root_word": "ع ص ر"
+    },
+    {
+      "root_id": 139,
+      "root_word": "و س ق"
+    },
+    {
+      "root_id": 140,
+      "root_word": "ح ر ق"
+    },
+    {
+      "root_id": 141,
+      "root_word": "ن ع ق"
+    },
+    {
+      "root_id": 142,
+      "root_word": "ه و ر"
+    },
+    {
+      "root_id": 143,
+      "root_word": "ا و ه"
+    },
+    {
+      "root_id": 144,
+      "root_word": "ش ر ط"
+    },
+    {
+      "root_id": 145,
+      "root_word": "س ع ي"
+    },
+    {
+      "root_id": 146,
+      "root_word": "ط و ف"
+    },
+    {
+      "root_id": 147,
+      "root_word": "ر ك ن"
+    },
+    {
+      "root_id": 148,
+      "root_word": "د ع ع"
+    },
+    {
+      "root_id": 149,
+      "root_word": "و ت د"
+    },
+    {
+      "root_id": 150,
+      "root_word": "ن ج د"
+    },
+    {
+      "root_id": 151,
+      "root_word": "ا م و"
+    },
+    {
+      "root_id": 152,
+      "root_word": "ا م س"
+    },
+    {
+      "root_id": 153,
+      "root_word": "غ ل ق"
+    },
+    {
+      "root_id": 154,
+      "root_word": "غ ز ل"
+    },
+    {
+      "root_id": 155,
+      "root_word": "ب ه ل"
+    },
+    {
+      "root_id": 156,
+      "root_word": "ه و د"
+    },
+    {
+      "root_id": 157,
+      "root_word": "ر ف ع"
+    },
+    {
+      "root_id": 158,
+      "root_word": "ع ت ب"
+    },
+    {
+      "root_id": 159,
+      "root_word": "ب س م"
+    },
+    {
+      "root_id": 160,
+      "root_word": "ع ب ق ر"
+    },
+    {
+      "root_id": 161,
+      "root_word": "و ك د"
+    },
+    {
+      "root_id": 162,
+      "root_word": "ش و ب"
+    },
+    {
+      "root_id": 163,
+      "root_word": "ف د ي"
+    },
+    {
+      "root_id": 164,
+      "root_word": "ع ي ل"
+    },
+    {
+      "root_id": 165,
+      "root_word": "ل ظ ي"
+    },
+    {
+      "root_id": 166,
+      "root_word": "ط ل ح"
+    },
+    {
+      "root_id": 167,
+      "root_word": "ح ق ف"
+    },
+    {
+      "root_id": 168,
+      "root_word": "س ت ت"
+    },
+    {
+      "root_id": 169,
+      "root_word": "ن ف س"
+    },
+    {
+      "root_id": 170,
+      "root_word": "ل و ن"
+    },
+    {
+      "root_id": 171,
+      "root_word": "ق م ل"
+    },
+    {
+      "root_id": 172,
+      "root_word": "ق ل ب"
+    },
+    {
+      "root_id": 173,
+      "root_word": "ق ت ل  ا"
+    },
+    {
+      "root_id": 174,
+      "root_word": "ل غ ب"
+    },
+    {
+      "root_id": 175,
+      "root_word": "ك س ب"
+    },
+    {
+      "root_id": 176,
+      "root_word": "ص م ت"
+    },
+    {
+      "root_id": 177,
+      "root_word": "ق ب ل"
+    },
+    {
+      "root_id": 178,
+      "root_word": "ب ص ر"
+    },
+    {
+      "root_id": 179,
+      "root_word": "س ف ر"
+    },
+    {
+      "root_id": 180,
+      "root_word": "ن و ش"
+    },
+    {
+      "root_id": 181,
+      "root_word": "ز ل م"
+    },
+    {
+      "root_id": 182,
+      "root_word": "ب خ س"
+    },
+    {
+      "root_id": 183,
+      "root_word": "خ ط ط"
+    },
+    {
+      "root_id": 184,
+      "root_word": "و ف ي"
+    },
+    {
+      "root_id": 185,
+      "root_word": "ع ت و"
+    },
+    {
+      "root_id": 186,
+      "root_word": "ق ب ر"
+    },
+    {
+      "root_id": 187,
+      "root_word": "ا ف ف"
+    },
+    {
+      "root_id": 188,
+      "root_word": "ن ع ل"
+    },
+    {
+      "root_id": 189,
+      "root_word": "ج ب ن"
+    },
+    {
+      "root_id": 190,
+      "root_word": "ا ل ف"
+    },
+    {
+      "root_id": 191,
+      "root_word": "ل ه ث"
+    },
+    {
+      "root_id": 192,
+      "root_word": "ب س ط"
+    },
+    {
+      "root_id": 193,
+      "root_word": "م ع ز"
+    },
+    {
+      "root_id": 194,
+      "root_word": "ص ل د"
+    },
+    {
+      "root_id": 195,
+      "root_word": "ن ع م"
+    },
+    {
+      "root_id": 196,
+      "root_word": "ب ع د"
+    },
+    {
+      "root_id": 197,
+      "root_word": "ح س ن"
+    },
+    {
+      "root_id": 198,
+      "root_word": "ل ا ل ا"
+    },
+    {
+      "root_id": 199,
+      "root_word": "ف ض ي"
+    },
+    {
+      "root_id": 200,
+      "root_word": "و ج ل"
+    },
+    {
+      "root_id": 201,
+      "root_word": "س ه ل"
+    },
+    {
+      "root_id": 202,
+      "root_word": "ح ن ي"
+    },
+    {
+      "root_id": 203,
+      "root_word": "خ ب ز"
+    },
+    {
+      "root_id": 204,
+      "root_word": "ج ذ ع"
+    },
+    {
+      "root_id": 205,
+      "root_word": "ك ر ب"
+    },
+    {
+      "root_id": 206,
+      "root_word": "ا ن ي"
+    },
+    {
+      "root_id": 207,
+      "root_word": "ج ن ن"
+    },
+    {
+      "root_id": 208,
+      "root_word": "ج ل ب"
+    },
+    {
+      "root_id": 209,
+      "root_word": "ه و ي"
+    },
+    {
+      "root_id": 210,
+      "root_word": "ن ك ح"
+    },
+    {
+      "root_id": 211,
+      "root_word": "ق ر ب"
+    },
+    {
+      "root_id": 212,
+      "root_word": "خ و ي"
+    },
+    {
+      "root_id": 213,
+      "root_word": "و ف ر"
+    },
+    {
+      "root_id": 214,
+      "root_word": "ف و ه"
+    },
+    {
+      "root_id": 215,
+      "root_word": "ب خ ل"
+    },
+    {
+      "root_id": 216,
+      "root_word": "ح و ت"
+    },
+    {
+      "root_id": 217,
+      "root_word": "و ي ل"
+    },
+    {
+      "root_id": 218,
+      "root_word": "ب ز غ"
+    },
+    {
+      "root_id": 219,
+      "root_word": "ص د ف"
+    },
+    {
+      "root_id": 220,
+      "root_word": "ف ت ح"
+    },
+    {
+      "root_id": 221,
+      "root_word": "ب ر ق"
+    },
+    {
+      "root_id": 222,
+      "root_word": "ن ق ب"
+    },
+    {
+      "root_id": 223,
+      "root_word": "ظ ل م"
+    },
+    {
+      "root_id": 224,
+      "root_word": "ص ل ح"
+    },
+    {
+      "root_id": 225,
+      "root_word": "ط م ن"
+    },
+    {
+      "root_id": 226,
+      "root_word": "ع د د"
+    },
+    {
+      "root_id": 227,
+      "root_word": "ا ف ك"
+    },
+    {
+      "root_id": 228,
+      "root_word": "ن ح ب"
+    },
+    {
+      "root_id": 229,
+      "root_word": "ن ك ث"
+    },
+    {
+      "root_id": 230,
+      "root_word": "ص م ع"
+    },
+    {
+      "root_id": 231,
+      "root_word": "ف ر غ"
+    },
+    {
+      "root_id": 232,
+      "root_word": "خ ي ر"
+    },
+    {
+      "root_id": 233,
+      "root_word": "خ ت ر"
+    },
+    {
+      "root_id": 234,
+      "root_word": "د ر ي"
+    },
+    {
+      "root_id": 235,
+      "root_word": "ب ش ر"
+    },
+    {
+      "root_id": 236,
+      "root_word": "ف ت ي"
+    },
+    {
+      "root_id": 237,
+      "root_word": "ب ن ا"
+    },
+    {
+      "root_id": 238,
+      "root_word": "ز ل ق"
+    },
+    {
+      "root_id": 239,
+      "root_word": "ص ر خ"
+    },
+    {
+      "root_id": 240,
+      "root_word": "ر ص د"
+    },
+    {
+      "root_id": 241,
+      "root_word": "ف ي ل"
+    },
+    {
+      "root_id": 242,
+      "root_word": "خ ط ب"
+    },
+    {
+      "root_id": 243,
+      "root_word": "ر ب ب"
+    },
+    {
+      "root_id": 244,
+      "root_word": "ر م ن"
+    },
+    {
+      "root_id": 245,
+      "root_word": "ك ل ف"
+    },
+    {
+      "root_id": 246,
+      "root_word": "س ب ا"
+    },
+    {
+      "root_id": 247,
+      "root_word": "ا ي ي"
+    },
+    {
+      "root_id": 248,
+      "root_word": "ع ج ف"
+    },
+    {
+      "root_id": 249,
+      "root_word": "س و ع"
+    },
+    {
+      "root_id": 250,
+      "root_word": "ف ج و"
+    },
+    {
+      "root_id": 251,
+      "root_word": "ج ب ه"
+    },
+    {
+      "root_id": 252,
+      "root_word": "ع ص و"
+    },
+    {
+      "root_id": 253,
+      "root_word": "غ د ر"
+    },
+    {
+      "root_id": 254,
+      "root_word": "ح ر ب"
+    },
+    {
+      "root_id": 255,
+      "root_word": "ل د ي"
+    },
+    {
+      "root_id": 256,
+      "root_word": "ص ر م"
+    },
+    {
+      "root_id": 257,
+      "root_word": "غ ر ب"
+    },
+    {
+      "root_id": 258,
+      "root_word": "ح ي ف"
+    },
+    {
+      "root_id": 259,
+      "root_word": "س ن و"
+    },
+    {
+      "root_id": 260,
+      "root_word": "ش ك ل"
+    },
+    {
+      "root_id": 261,
+      "root_word": "ث م ر"
+    },
+    {
+      "root_id": 262,
+      "root_word": "د ب ب"
+    },
+    {
+      "root_id": 263,
+      "root_word": "م ر ي م"
+    },
+    {
+      "root_id": 264,
+      "root_word": "م ا ل"
+    },
+    {
+      "root_id": 265,
+      "root_word": "ض ح ك"
+    },
+    {
+      "root_id": 266,
+      "root_word": "ر ك ض"
+    },
+    {
+      "root_id": 267,
+      "root_word": "ك ف ر"
+    },
+    {
+      "root_id": 268,
+      "root_word": "ن ج ل"
+    },
+    {
+      "root_id": 269,
+      "root_word": "ح ج ر"
+    },
+    {
+      "root_id": 270,
+      "root_word": "ص ك ك"
+    },
+    {
+      "root_id": 271,
+      "root_word": "و س م"
+    },
+    {
+      "root_id": 272,
+      "root_word": "ز ج ر"
+    },
+    {
+      "root_id": 273,
+      "root_word": "ز ن م"
+    },
+    {
+      "root_id": 274,
+      "root_word": "ع ظ م"
+    },
+    {
+      "root_id": 275,
+      "root_word": "ق ص ص"
+    },
+    {
+      "root_id": 276,
+      "root_word": "ع ز ي"
+    },
+    {
+      "root_id": 277,
+      "root_word": "ص ن ع"
+    },
+    {
+      "root_id": 278,
+      "root_word": "ا ي ا"
+    },
+    {
+      "root_id": 279,
+      "root_word": "ج ر ف"
+    },
+    {
+      "root_id": 280,
+      "root_word": "ك ذ ب"
+    },
+    {
+      "root_id": 281,
+      "root_word": "ج ز ي"
+    },
+    {
+      "root_id": 282,
+      "root_word": "د و د"
+    },
+    {
+      "root_id": 283,
+      "root_word": "و ر ث"
+    },
+    {
+      "root_id": 284,
+      "root_word": "ف ق ه"
+    },
+    {
+      "root_id": 285,
+      "root_word": "غ ب ن"
+    },
+    {
+      "root_id": 286,
+      "root_word": "ق ن ط"
+    },
+    {
+      "root_id": 287,
+      "root_word": "ق د م"
+    },
+    {
+      "root_id": 288,
+      "root_word": "خ ل ع"
+    },
+    {
+      "root_id": 289,
+      "root_word": "و ص ف"
+    },
+    {
+      "root_id": 290,
+      "root_word": "غ د و"
+    },
+    {
+      "root_id": 291,
+      "root_word": "ه ر ت"
+    },
+    {
+      "root_id": 292,
+      "root_word": "ع ق د"
+    },
+    {
+      "root_id": 293,
+      "root_word": "ب س ر"
+    },
+    {
+      "root_id": 294,
+      "root_word": "ح ي ق"
+    },
+    {
+      "root_id": 295,
+      "root_word": "ش ر ي"
+    },
+    {
+      "root_id": 296,
+      "root_word": "ظ ل ل"
+    },
+    {
+      "root_id": 297,
+      "root_word": "غ و ل"
+    },
+    {
+      "root_id": 298,
+      "root_word": "د ي ن"
+    },
+    {
+      "root_id": 299,
+      "root_word": "خ ش ع"
+    },
+    {
+      "root_id": 300,
+      "root_word": "ت ر ك"
+    },
+    {
+      "root_id": 301,
+      "root_word": "ج ه ر"
+    },
+    {
+      "root_id": 302,
+      "root_word": "ت ر ب"
+    },
+    {
+      "root_id": 303,
+      "root_word": "غ ل و"
+    },
+    {
+      "root_id": 304,
+      "root_word": "ص م د"
+    },
+    {
+      "root_id": 305,
+      "root_word": "ض ا ن"
+    },
+    {
+      "root_id": 306,
+      "root_word": "م ج د"
+    },
+    {
+      "root_id": 307,
+      "root_word": "ف ق ر"
+    },
+    {
+      "root_id": 308,
+      "root_word": "ا ل ل ت"
+    },
+    {
+      "root_id": 309,
+      "root_word": "ب د ع"
+    },
+    {
+      "root_id": 310,
+      "root_word": "ر و د"
+    },
+    {
+      "root_id": 311,
+      "root_word": "م ع ن"
+    },
+    {
+      "root_id": 312,
+      "root_word": "م س ي"
+    },
+    {
+      "root_id": 313,
+      "root_word": "ج س م"
+    },
+    {
+      "root_id": 314,
+      "root_word": "خ ي م"
+    },
+    {
+      "root_id": 315,
+      "root_word": "ر ذ ل"
+    },
+    {
+      "root_id": 316,
+      "root_word": "و ط ا"
+    },
+    {
+      "root_id": 317,
+      "root_word": "ا ذ"
+    },
+    {
+      "root_id": 318,
+      "root_word": "ف ظ ظ"
+    },
+    {
+      "root_id": 319,
+      "root_word": "ن ق م"
+    },
+    {
+      "root_id": 320,
+      "root_word": "س ي ن"
+    },
+    {
+      "root_id": 321,
+      "root_word": "ل ج ج"
+    },
+    {
+      "root_id": 322,
+      "root_word": "ه ل"
+    },
+    {
+      "root_id": 323,
+      "root_word": "ا ل ل ا"
+    },
+    {
+      "root_id": 324,
+      "root_word": "ج ه د"
+    },
+    {
+      "root_id": 325,
+      "root_word": "ا ج ج"
+    },
+    {
+      "root_id": 326,
+      "root_word": "ث ق ل"
+    },
+    {
+      "root_id": 327,
+      "root_word": "س و غ"
+    },
+    {
+      "root_id": 328,
+      "root_word": "ر ط ب"
+    },
+    {
+      "root_id": 329,
+      "root_word": "ط س"
+    },
+    {
+      "root_id": 330,
+      "root_word": "ق"
+    },
+    {
+      "root_id": 331,
+      "root_word": "ق و ل"
+    },
+    {
+      "root_id": 332,
+      "root_word": "ن د د"
+    },
+    {
+      "root_id": 333,
+      "root_word": "ق ل م"
+    },
+    {
+      "root_id": 334,
+      "root_word": "ل و ي"
+    },
+    {
+      "root_id": 335,
+      "root_word": "ب"
+    },
+    {
+      "root_id": 336,
+      "root_word": "س خ ر"
+    },
+    {
+      "root_id": 337,
+      "root_word": "ا و ل"
+    },
+    {
+      "root_id": 338,
+      "root_word": "س م ن"
+    },
+    {
+      "root_id": 339,
+      "root_word": "و ص ب"
+    },
+    {
+      "root_id": 340,
+      "root_word": "ش ف ق"
+    },
+    {
+      "root_id": 341,
+      "root_word": "ح ذ ر"
+    },
+    {
+      "root_id": 342,
+      "root_word": "ق ل ع"
+    },
+    {
+      "root_id": 343,
+      "root_word": "ض ه ي"
+    },
+    {
+      "root_id": 344,
+      "root_word": "ت ل و"
+    },
+    {
+      "root_id": 345,
+      "root_word": "ج ف ن"
+    },
+    {
+      "root_id": 346,
+      "root_word": "ط م م"
+    },
+    {
+      "root_id": 347,
+      "root_word": "ك ن د"
+    },
+    {
+      "root_id": 348,
+      "root_word": "ث خ ن"
+    },
+    {
+      "root_id": 349,
+      "root_word": "ل و"
+    },
+    {
+      "root_id": 350,
+      "root_word": "س ط ح"
+    },
+    {
+      "root_id": 351,
+      "root_word": "م د ي ن"
+    },
+    {
+      "root_id": 352,
+      "root_word": "خ ذ ل"
+    },
+    {
+      "root_id": 353,
+      "root_word": "ع ل و"
+    },
+    {
+      "root_id": 354,
+      "root_word": "ص ع ق"
+    },
+    {
+      "root_id": 355,
+      "root_word": "ن ز غ"
+    },
+    {
+      "root_id": 356,
+      "root_word": "غ ل ي"
+    },
+    {
+      "root_id": 357,
+      "root_word": "خ ن س"
+    },
+    {
+      "root_id": 358,
+      "root_word": "ش غ ل"
+    },
+    {
+      "root_id": 359,
+      "root_word": "ع ب س"
+    },
+    {
+      "root_id": 360,
+      "root_word": "ذ و د"
+    },
+    {
+      "root_id": 361,
+      "root_word": "س ن د س"
+    },
+    {
+      "root_id": 362,
+      "root_word": "ت ق ن"
+    },
+    {
+      "root_id": 363,
+      "root_word": "ر ق د"
+    },
+    {
+      "root_id": 364,
+      "root_word": "ك و ن"
+    },
+    {
+      "root_id": 365,
+      "root_word": "و د ق"
+    },
+    {
+      "root_id": 366,
+      "root_word": "ن س ل"
+    },
+    {
+      "root_id": 367,
+      "root_word": "خ ف ت"
+    },
+    {
+      "root_id": 368,
+      "root_word": "ذ ب ذ ب"
+    },
+    {
+      "root_id": 369,
+      "root_word": "م د د"
+    },
+    {
+      "root_id": 370,
+      "root_word": "ن ف ش"
+    },
+    {
+      "root_id": 371,
+      "root_word": "ق د و"
+    },
+    {
+      "root_id": 372,
+      "root_word": "ص ر ع"
+    },
+    {
+      "root_id": 373,
+      "root_word": "م ر ا"
+    },
+    {
+      "root_id": 374,
+      "root_word": "ك ه ي ع ص"
+    },
+    {
+      "root_id": 375,
+      "root_word": "ق ر ش"
+    },
+    {
+      "root_id": 376,
+      "root_word": "خ ص ف"
+    },
+    {
+      "root_id": 377,
+      "root_word": "ف ر ق"
+    },
+    {
+      "root_id": 378,
+      "root_word": "ا ج ل"
+    },
+    {
+      "root_id": 379,
+      "root_word": "ل"
+    },
+    {
+      "root_id": 380,
+      "root_word": "ل ه و"
+    },
+    {
+      "root_id": 381,
+      "root_word": "س ك ب"
+    },
+    {
+      "root_id": 382,
+      "root_word": "ك ر م"
+    },
+    {
+      "root_id": 383,
+      "root_word": "ف ص ح"
+    },
+    {
+      "root_id": 384,
+      "root_word": "ن ش ا"
+    },
+    {
+      "root_id": 385,
+      "root_word": "ك ه ن"
+    },
+    {
+      "root_id": 386,
+      "root_word": "ل ق ح"
+    },
+    {
+      "root_id": 387,
+      "root_word": "ق ن و"
+    },
+    {
+      "root_id": 388,
+      "root_word": "ف ر ط"
+    },
+    {
+      "root_id": 389,
+      "root_word": "س ي ح"
+    },
+    {
+      "root_id": 390,
+      "root_word": "ا ل ه"
+    },
+    {
+      "root_id": 391,
+      "root_word": "ت ب ر"
+    },
+    {
+      "root_id": 392,
+      "root_word": "ع ز ر"
+    },
+    {
+      "root_id": 393,
+      "root_word": "م ق ت"
+    },
+    {
+      "root_id": 394,
+      "root_word": "ط و د"
+    },
+    {
+      "root_id": 395,
+      "root_word": "ز ع م"
+    },
+    {
+      "root_id": 396,
+      "root_word": "ل و م"
+    },
+    {
+      "root_id": 397,
+      "root_word": "ل و ل ا"
+    },
+    {
+      "root_id": 398,
+      "root_word": "ش ه ب"
+    },
+    {
+      "root_id": 399,
+      "root_word": "ج ه ن م"
+    },
+    {
+      "root_id": 400,
+      "root_word": "ن ك ب"
+    },
+    {
+      "root_id": 401,
+      "root_word": "ط غ و"
+    },
+    {
+      "root_id": 402,
+      "root_word": "ع ل ي"
+    },
+    {
+      "root_id": 403,
+      "root_word": "ن ع ج"
+    },
+    {
+      "root_id": 404,
+      "root_word": "ش ي خ"
+    },
+    {
+      "root_id": 405,
+      "root_word": "م ز ق"
+    },
+    {
+      "root_id": 406,
+      "root_word": "ح ض ر"
+    },
+    {
+      "root_id": 407,
+      "root_word": "ص ب ر"
+    },
+    {
+      "root_id": 408,
+      "root_word": "ب ن ن"
+    },
+    {
+      "root_id": 409,
+      "root_word": "ش ط ط"
+    },
+    {
+      "root_id": 410,
+      "root_word": "م ا ي"
+    },
+    {
+      "root_id": 411,
+      "root_word": "ه د د"
+    },
+    {
+      "root_id": 412,
+      "root_word": "ح م ي"
+    },
+    {
+      "root_id": 413,
+      "root_word": "خ ب ر"
+    },
+    {
+      "root_id": 414,
+      "root_word": "ر ف ت"
+    },
+    {
+      "root_id": 415,
+      "root_word": "ج د ث"
+    },
+    {
+      "root_id": 416,
+      "root_word": "خ ب ت"
+    },
+    {
+      "root_id": 417,
+      "root_word": "ز ج و"
+    },
+    {
+      "root_id": 418,
+      "root_word": "ش ح ن"
+    },
+    {
+      "root_id": 419,
+      "root_word": "ض م ر"
+    },
+    {
+      "root_id": 420,
+      "root_word": "ج ر م"
+    },
+    {
+      "root_id": 421,
+      "root_word": "ج و ع"
+    },
+    {
+      "root_id": 422,
+      "root_word": "ر ع ب"
+    },
+    {
+      "root_id": 423,
+      "root_word": "ن ف ر"
+    },
+    {
+      "root_id": 424,
+      "root_word": "ب ك ي"
+    },
+    {
+      "root_id": 425,
+      "root_word": "ي ن س"
+    },
+    {
+      "root_id": 426,
+      "root_word": "ر ض و"
+    },
+    {
+      "root_id": 427,
+      "root_word": "ط ف ل"
+    },
+    {
+      "root_id": 428,
+      "root_word": "س و ف"
+    },
+    {
+      "root_id": 429,
+      "root_word": "ق س ط س"
+    },
+    {
+      "root_id": 430,
+      "root_word": "ط ه"
+    },
+    {
+      "root_id": 431,
+      "root_word": "ق م ع"
+    },
+    {
+      "root_id": 432,
+      "root_word": "ق و ب"
+    },
+    {
+      "root_id": 433,
+      "root_word": "س ن ب ل"
+    },
+    {
+      "root_id": 434,
+      "root_word": "س غ ب"
+    },
+    {
+      "root_id": 435,
+      "root_word": "س ل ف"
+    },
+    {
+      "root_id": 436,
+      "root_word": "ن و ب"
+    },
+    {
+      "root_id": 437,
+      "root_word": "ز ج ج"
+    },
+    {
+      "root_id": 438,
+      "root_word": "ز م ل"
+    },
+    {
+      "root_id": 439,
+      "root_word": "ب ت ر"
+    },
+    {
+      "root_id": 440,
+      "root_word": "ل ح د"
+    },
+    {
+      "root_id": 441,
+      "root_word": "ا ن و"
+    },
+    {
+      "root_id": 442,
+      "root_word": "ا س ر"
+    },
+    {
+      "root_id": 443,
+      "root_word": "ص ي ص"
+    },
+    {
+      "root_id": 444,
+      "root_word": "ذ و"
+    },
+    {
+      "root_id": 445,
+      "root_word": "ص ه ر"
+    },
+    {
+      "root_id": 446,
+      "root_word": "ق ل د"
+    },
+    {
+      "root_id": 447,
+      "root_word": "ن ص ب"
+    },
+    {
+      "root_id": 448,
+      "root_word": "م ل ا"
+    },
+    {
+      "root_id": 449,
+      "root_word": "ر ف ق"
+    },
+    {
+      "root_id": 450,
+      "root_word": "ر ج ع"
+    },
+    {
+      "root_id": 451,
+      "root_word": "ل ع ب"
+    },
+    {
+      "root_id": 452,
+      "root_word": "ق ن ت"
+    },
+    {
+      "root_id": 453,
+      "root_word": "ح و ط"
+    },
+    {
+      "root_id": 454,
+      "root_word": "ح ل ف"
+    },
+    {
+      "root_id": 455,
+      "root_word": "ش ر ح"
+    },
+    {
+      "root_id": 456,
+      "root_word": "ع ل ق"
+    },
+    {
+      "root_id": 457,
+      "root_word": "ف ل ق"
+    },
+    {
+      "root_id": 458,
+      "root_word": "ق د د"
+    },
+    {
+      "root_id": 459,
+      "root_word": "ح ب ك"
+    },
+    {
+      "root_id": 460,
+      "root_word": "ا ذ ا"
+    },
+    {
+      "root_id": 461,
+      "root_word": "ح ك م"
+    },
+    {
+      "root_id": 462,
+      "root_word": "ق س ر"
+    },
+    {
+      "root_id": 463,
+      "root_word": "ا م م"
+    },
+    {
+      "root_id": 464,
+      "root_word": "ج ن ح"
+    },
+    {
+      "root_id": 465,
+      "root_word": "ه ي ا"
+    },
+    {
+      "root_id": 466,
+      "root_word": "ك و ب"
+    },
+    {
+      "root_id": 467,
+      "root_word": "ي ه د"
+    },
+    {
+      "root_id": 468,
+      "root_word": "ر و م"
+    },
+    {
+      "root_id": 469,
+      "root_word": "ش خ ص"
+    },
+    {
+      "root_id": 470,
+      "root_word": "ث م د"
+    },
+    {
+      "root_id": 471,
+      "root_word": "و ع د"
+    },
+    {
+      "root_id": 472,
+      "root_word": "ع ز ب"
+    },
+    {
+      "root_id": 473,
+      "root_word": "ر غ د"
+    },
+    {
+      "root_id": 474,
+      "root_word": "و ج س"
+    },
+    {
+      "root_id": 475,
+      "root_word": "خ و ن"
+    },
+    {
+      "root_id": 476,
+      "root_word": "ي ق ط ن"
+    },
+    {
+      "root_id": 477,
+      "root_word": "ج ف ي"
+    },
+    {
+      "root_id": 478,
+      "root_word": "ه ز ز"
+    },
+    {
+      "root_id": 479,
+      "root_word": "ص ف ح"
+    },
+    {
+      "root_id": 480,
+      "root_word": "ب ه م"
+    },
+    {
+      "root_id": 481,
+      "root_word": "ب ي ن"
+    },
+    {
+      "root_id": 482,
+      "root_word": "ج ي ا"
+    },
+    {
+      "root_id": 483,
+      "root_word": "م خ ض"
+    },
+    {
+      "root_id": 484,
+      "root_word": "غ ر ف"
+    },
+    {
+      "root_id": 485,
+      "root_word": "م ر ت"
+    },
+    {
+      "root_id": 486,
+      "root_word": "س ن ه"
+    },
+    {
+      "root_id": 487,
+      "root_word": "ع س ع س"
+    },
+    {
+      "root_id": 488,
+      "root_word": "و ل ج"
+    },
+    {
+      "root_id": 489,
+      "root_word": "و ح ش"
+    },
+    {
+      "root_id": 490,
+      "root_word": "خ ن ق"
+    },
+    {
+      "root_id": 491,
+      "root_word": "ع ج ب"
+    },
+    {
+      "root_id": 492,
+      "root_word": "ع ي ب"
+    },
+    {
+      "root_id": 493,
+      "root_word": "ا ب ب"
+    },
+    {
+      "root_id": 494,
+      "root_word": "ك و ك ب"
+    },
+    {
+      "root_id": 495,
+      "root_word": "د ف ا"
+    },
+    {
+      "root_id": 496,
+      "root_word": "س ل ل"
+    },
+    {
+      "root_id": 497,
+      "root_word": "ع ي س"
+    },
+    {
+      "root_id": 498,
+      "root_word": "ط و ي"
+    },
+    {
+      "root_id": 499,
+      "root_word": "ن ه ج"
+    },
+    {
+      "root_id": 500,
+      "root_word": "و س ن"
+    },
+    {
+      "root_id": 501,
+      "root_word": "ذ ن ب"
+    },
+    {
+      "root_id": 502,
+      "root_word": "ج ب ي"
+    },
+    {
+      "root_id": 503,
+      "root_word": "ع ل ن"
+    },
+    {
+      "root_id": 504,
+      "root_word": "ح ر ي"
+    },
+    {
+      "root_id": 505,
+      "root_word": "ن س ب"
+    },
+    {
+      "root_id": 506,
+      "root_word": "ل م"
+    },
+    {
+      "root_id": 507,
+      "root_word": "ا ث ل"
+    },
+    {
+      "root_id": 508,
+      "root_word": "ي ع ق"
+    },
+    {
+      "root_id": 509,
+      "root_word": "ي ب س"
+    },
+    {
+      "root_id": 510,
+      "root_word": "د و ن"
+    },
+    {
+      "root_id": 511,
+      "root_word": "ه ن"
+    },
+    {
+      "root_id": 512,
+      "root_word": "ب ع ل"
+    },
+    {
+      "root_id": 513,
+      "root_word": "ع ت ق"
+    },
+    {
+      "root_id": 514,
+      "root_word": "ن ص ح"
+    },
+    {
+      "root_id": 515,
+      "root_word": "ج ي د"
+    },
+    {
+      "root_id": 516,
+      "root_word": "س ج ل"
+    },
+    {
+      "root_id": 517,
+      "root_word": "و س ع"
+    },
+    {
+      "root_id": 518,
+      "root_word": "ك ش ف"
+    },
+    {
+      "root_id": 519,
+      "root_word": "ع ض د"
+    },
+    {
+      "root_id": 520,
+      "root_word": "ف ش ل"
+    },
+    {
+      "root_id": 521,
+      "root_word": "ر ج ج"
+    },
+    {
+      "root_id": 522,
+      "root_word": "ب ل غ"
+    },
+    {
+      "root_id": 523,
+      "root_word": "ي غ ث"
+    },
+    {
+      "root_id": 524,
+      "root_word": "ش ف ي"
+    },
+    {
+      "root_id": 525,
+      "root_word": "ر ج م"
+    },
+    {
+      "root_id": 526,
+      "root_word": "ك ث ب"
+    },
+    {
+      "root_id": 527,
+      "root_word": "س ق ف"
+    },
+    {
+      "root_id": 528,
+      "root_word": "ت ا ب و"
+    },
+    {
+      "root_id": 529,
+      "root_word": "و ص د"
+    },
+    {
+      "root_id": 530,
+      "root_word": "س ج و"
+    },
+    {
+      "root_id": 531,
+      "root_word": "ر ب ص"
+    },
+    {
+      "root_id": 532,
+      "root_word": "ب ح ث"
+    },
+    {
+      "root_id": 533,
+      "root_word": "ه ز م"
+    },
+    {
+      "root_id": 534,
+      "root_word": "ج ف ا"
+    },
+    {
+      "root_id": 535,
+      "root_word": "ل ه م"
+    },
+    {
+      "root_id": 536,
+      "root_word": "د ه ي"
+    },
+    {
+      "root_id": 537,
+      "root_word": "غ ض ب"
+    },
+    {
+      "root_id": 538,
+      "root_word": "ح ل م"
+    },
+    {
+      "root_id": 539,
+      "root_word": "م ن"
+    },
+    {
+      "root_id": 540,
+      "root_word": "و ط ر"
+    },
+    {
+      "root_id": 541,
+      "root_word": "ص ي د"
+    },
+    {
+      "root_id": 542,
+      "root_word": "س م د"
+    },
+    {
+      "root_id": 543,
+      "root_word": "ل ي س"
+    },
+    {
+      "root_id": 544,
+      "root_word": "ر و ح"
+    },
+    {
+      "root_id": 545,
+      "root_word": "س و ق"
+    },
+    {
+      "root_id": 546,
+      "root_word": "ع ه ن"
+    },
+    {
+      "root_id": 547,
+      "root_word": "ع ه د"
+    },
+    {
+      "root_id": 548,
+      "root_word": "ه ب و"
+    },
+    {
+      "root_id": 549,
+      "root_word": "ر ق ب"
+    },
+    {
+      "root_id": 550,
+      "root_word": "م ج ج"
+    },
+    {
+      "root_id": 551,
+      "root_word": "م ط و"
+    },
+    {
+      "root_id": 552,
+      "root_word": "ك و ر"
+    },
+    {
+      "root_id": 553,
+      "root_word": "خ ر ق"
+    },
+    {
+      "root_id": 554,
+      "root_word": "ق م ر"
+    },
+    {
+      "root_id": 555,
+      "root_word": "ذ ل ل"
+    },
+    {
+      "root_id": 556,
+      "root_word": "ا ر ض"
+    },
+    {
+      "root_id": 557,
+      "root_word": "ن و ق"
+    },
+    {
+      "root_id": 558,
+      "root_word": "ل ع ن"
+    },
+    {
+      "root_id": 559,
+      "root_word": "ش ط ا"
+    },
+    {
+      "root_id": 560,
+      "root_word": "س ف ك"
+    },
+    {
+      "root_id": 561,
+      "root_word": "و ق ع"
+    },
+    {
+      "root_id": 562,
+      "root_word": "ض و ا"
+    },
+    {
+      "root_id": 563,
+      "root_word": "ن س ف"
+    },
+    {
+      "root_id": 564,
+      "root_word": "و ك ا"
+    },
+    {
+      "root_id": 565,
+      "root_word": "ش ق ي"
+    },
+    {
+      "root_id": 566,
+      "root_word": "غ د ق"
+    },
+    {
+      "root_id": 567,
+      "root_word": "ب م ا"
+    },
+    {
+      "root_id": 568,
+      "root_word": "ر ك م"
+    },
+    {
+      "root_id": 569,
+      "root_word": "ر س و"
+    },
+    {
+      "root_id": 570,
+      "root_word": "ص ب غ"
+    },
+    {
+      "root_id": 571,
+      "root_word": "ح ص د"
+    },
+    {
+      "root_id": 572,
+      "root_word": "ش ا ن"
+    },
+    {
+      "root_id": 573,
+      "root_word": "ج ا ر"
+    },
+    {
+      "root_id": 574,
+      "root_word": "ر ه و"
+    },
+    {
+      "root_id": 575,
+      "root_word": "ش ه ق"
+    },
+    {
+      "root_id": 576,
+      "root_word": "ب ي ض"
+    },
+    {
+      "root_id": 577,
+      "root_word": "ج ع ل"
+    },
+    {
+      "root_id": 578,
+      "root_word": "ض ن ن"
+    },
+    {
+      "root_id": 579,
+      "root_word": "ن ف ذ"
+    },
+    {
+      "root_id": 580,
+      "root_word": "م س د"
+    },
+    {
+      "root_id": 581,
+      "root_word": "ج س س"
+    },
+    {
+      "root_id": 582,
+      "root_word": "ا ك ل"
+    },
+    {
+      "root_id": 583,
+      "root_word": "ه د ي"
+    },
+    {
+      "root_id": 584,
+      "root_word": "ا ل ر"
+    },
+    {
+      "root_id": 585,
+      "root_word": "ق ر ط س"
+    },
+    {
+      "root_id": 586,
+      "root_word": "ل ي ت"
+    },
+    {
+      "root_id": 587,
+      "root_word": "ج و ف"
+    },
+    {
+      "root_id": 588,
+      "root_word": "ل ف ظ"
+    },
+    {
+      "root_id": 589,
+      "root_word": "ض غ ن"
+    },
+    {
+      "root_id": 590,
+      "root_word": "ب ق ر"
+    },
+    {
+      "root_id": 591,
+      "root_word": "ر ق ي"
+    },
+    {
+      "root_id": 592,
+      "root_word": "و ن ي"
+    },
+    {
+      "root_id": 593,
+      "root_word": "ع ش ر"
+    },
+    {
+      "root_id": 594,
+      "root_word": "ل ف ي"
+    },
+    {
+      "root_id": 595,
+      "root_word": "و ز ع"
+    },
+    {
+      "root_id": 596,
+      "root_word": "ن ب ز"
+    },
+    {
+      "root_id": 597,
+      "root_word": "ق و ي"
+    },
+    {
+      "root_id": 598,
+      "root_word": "ث و ي"
+    },
+    {
+      "root_id": 599,
+      "root_word": "ص ل ب"
+    },
+    {
+      "root_id": 600,
+      "root_word": "ر و ض"
+    },
+    {
+      "root_id": 601,
+      "root_word": "ش و ظ"
+    },
+    {
+      "root_id": 602,
+      "root_word": "و ر ي"
+    },
+    {
+      "root_id": 603,
+      "root_word": "ق ر ف"
+    },
+    {
+      "root_id": 604,
+      "root_word": "ك د ي"
+    },
+    {
+      "root_id": 605,
+      "root_word": "ص ل و"
+    },
+    {
+      "root_id": 606,
+      "root_word": "س ل ق"
+    },
+    {
+      "root_id": 607,
+      "root_word": "م ا"
+    },
+    {
+      "root_id": 608,
+      "root_word": "س ر ب"
+    },
+    {
+      "root_id": 609,
+      "root_word": "م م ا"
+    },
+    {
+      "root_id": 610,
+      "root_word": "م و ه"
+    },
+    {
+      "root_id": 611,
+      "root_word": "د ف ق"
+    },
+    {
+      "root_id": 612,
+      "root_word": "ث م ن"
+    },
+    {
+      "root_id": 613,
+      "root_word": "ج ل ي"
+    },
+    {
+      "root_id": 614,
+      "root_word": "ا ذ ي"
+    },
+    {
+      "root_id": 615,
+      "root_word": "ذ م م"
+    },
+    {
+      "root_id": 616,
+      "root_word": "ح ف د"
+    },
+    {
+      "root_id": 617,
+      "root_word": "ق س س"
+    },
+    {
+      "root_id": 618,
+      "root_word": "غ ر ق"
+    },
+    {
+      "root_id": 619,
+      "root_word": "ع ص ي"
+    },
+    {
+      "root_id": 620,
+      "root_word": "ح ب س"
+    },
+    {
+      "root_id": 621,
+      "root_word": "ت ي ن"
+    },
+    {
+      "root_id": 622,
+      "root_word": "ز و ج"
+    },
+    {
+      "root_id": 623,
+      "root_word": "ق ي ض"
+    },
+    {
+      "root_id": 624,
+      "root_word": "غ ي ض"
+    },
+    {
+      "root_id": 625,
+      "root_word": "ن ح س"
+    },
+    {
+      "root_id": 626,
+      "root_word": "و ف ض"
+    },
+    {
+      "root_id": 627,
+      "root_word": "ص ي ح"
+    },
+    {
+      "root_id": 628,
+      "root_word": "ض ي ع"
+    },
+    {
+      "root_id": 629,
+      "root_word": "ر م ز"
+    },
+    {
+      "root_id": 630,
+      "root_word": "ي ق ظ"
+    },
+    {
+      "root_id": 631,
+      "root_word": "س ر د ق"
+    },
+    {
+      "root_id": 632,
+      "root_word": "ر ح ق"
+    },
+    {
+      "root_id": 633,
+      "root_word": "خ ي ب"
+    },
+    {
+      "root_id": 634,
+      "root_word": "ع ر ج"
+    },
+    {
+      "root_id": 635,
+      "root_word": "ب ذ ر"
+    },
+    {
+      "root_id": 636,
+      "root_word": "س ف ن"
+    },
+    {
+      "root_id": 637,
+      "root_word": "ص م م"
+    },
+    {
+      "root_id": 638,
+      "root_word": "ح ي ر"
+    },
+    {
+      "root_id": 639,
+      "root_word": "ظ ن ن"
+    },
+    {
+      "root_id": 640,
+      "root_word": "ق و س"
+    },
+    {
+      "root_id": 641,
+      "root_word": "ف ك ر"
+    },
+    {
+      "root_id": 642,
+      "root_word": "ق ن ي"
+    },
+    {
+      "root_id": 643,
+      "root_word": "ب ر ز"
+    },
+    {
+      "root_id": 644,
+      "root_word": "س د ر"
+    },
+    {
+      "root_id": 645,
+      "root_word": "ز ي ت"
+    },
+    {
+      "root_id": 646,
+      "root_word": "ا ج ر"
+    },
+    {
+      "root_id": 647,
+      "root_word": "ش ك و"
+    },
+    {
+      "root_id": 648,
+      "root_word": "ف ي ا"
+    },
+    {
+      "root_id": 649,
+      "root_word": "ر ت ل"
+    },
+    {
+      "root_id": 650,
+      "root_word": "ع ي ي"
+    },
+    {
+      "root_id": 651,
+      "root_word": "س ر ر"
+    },
+    {
+      "root_id": 652,
+      "root_word": "ل و ط"
+    },
+    {
+      "root_id": 653,
+      "root_word": "غ ص ص"
+    },
+    {
+      "root_id": 654,
+      "root_word": "ك ت ب"
+    },
+    {
+      "root_id": 655,
+      "root_word": "د ل ك"
+    },
+    {
+      "root_id": 656,
+      "root_word": "ش غ ف"
+    },
+    {
+      "root_id": 657,
+      "root_word": "ع ط ف"
+    },
+    {
+      "root_id": 658,
+      "root_word": "ك ي ن"
+    },
+    {
+      "root_id": 659,
+      "root_word": "ل ق ط"
+    },
+    {
+      "root_id": 660,
+      "root_word": "ص ب ا"
+    },
+    {
+      "root_id": 661,
+      "root_word": "ر ج ل"
+    },
+    {
+      "root_id": 662,
+      "root_word": "ر د م"
+    },
+    {
+      "root_id": 663,
+      "root_word": "ض ر ع"
+    },
+    {
+      "root_id": 664,
+      "root_word": "ر ق م"
+    },
+    {
+      "root_id": 665,
+      "root_word": "ه ي ه"
+    },
+    {
+      "root_id": 666,
+      "root_word": "ص ف ص ف"
+    },
+    {
+      "root_id": 667,
+      "root_word": "ب ط ا"
+    },
+    {
+      "root_id": 668,
+      "root_word": "خ م ص"
+    },
+    {
+      "root_id": 669,
+      "root_word": "ب ط ر"
+    },
+    {
+      "root_id": 670,
+      "root_word": "ه ر ن"
+    },
+    {
+      "root_id": 671,
+      "root_word": "ب ع ض"
+    },
+    {
+      "root_id": 672,
+      "root_word": "م ح و"
+    },
+    {
+      "root_id": 673,
+      "root_word": "ع ج ز"
+    },
+    {
+      "root_id": 674,
+      "root_word": "س ر ف"
+    },
+    {
+      "root_id": 675,
+      "root_word": "س ن د"
+    },
+    {
+      "root_id": 676,
+      "root_word": "خ ض ع"
+    },
+    {
+      "root_id": 677,
+      "root_word": "ز ه ق"
+    },
+    {
+      "root_id": 678,
+      "root_word": "س ر ق"
+    },
+    {
+      "root_id": 679,
+      "root_word": "ط ر د"
+    },
+    {
+      "root_id": 680,
+      "root_word": "ض ف د ع"
+    },
+    {
+      "root_id": 681,
+      "root_word": "ج ل س"
+    },
+    {
+      "root_id": 682,
+      "root_word": "م ه ن"
+    },
+    {
+      "root_id": 683,
+      "root_word": "ر و ع"
+    },
+    {
+      "root_id": 684,
+      "root_word": "ف ت ا"
+    },
+    {
+      "root_id": 685,
+      "root_word": "ق ب س"
+    },
+    {
+      "root_id": 686,
+      "root_word": "ق ب ض"
+    },
+    {
+      "root_id": 687,
+      "root_word": "ذ ا م"
+    },
+    {
+      "root_id": 688,
+      "root_word": "و ه ج"
+    },
+    {
+      "root_id": 689,
+      "root_word": "س ب ع"
+    },
+    {
+      "root_id": 690,
+      "root_word": "ه م د"
+    },
+    {
+      "root_id": 691,
+      "root_word": "د ع و"
+    },
+    {
+      "root_id": 692,
+      "root_word": "ل ع ل ل"
+    },
+    {
+      "root_id": 693,
+      "root_word": "ن ه ر"
+    },
+    {
+      "root_id": 694,
+      "root_word": "ب و ا"
+    },
+    {
+      "root_id": 695,
+      "root_word": "ح ب ب"
+    },
+    {
+      "root_id": 696,
+      "root_word": "ع و ن"
+    },
+    {
+      "root_id": 697,
+      "root_word": "ن ش ز"
+    },
+    {
+      "root_id": 698,
+      "root_word": "و ق ت"
+    },
+    {
+      "root_id": 699,
+      "root_word": "ه ش ش"
+    },
+    {
+      "root_id": 700,
+      "root_word": "ه ط ع"
+    },
+    {
+      "root_id": 701,
+      "root_word": "و ق ذ"
+    },
+    {
+      "root_id": 702,
+      "root_word": "ا ن ث"
+    },
+    {
+      "root_id": 703,
+      "root_word": "د خ ن"
+    },
+    {
+      "root_id": 704,
+      "root_word": "س ل ح"
+    },
+    {
+      "root_id": 705,
+      "root_word": "ا د د"
+    },
+    {
+      "root_id": 706,
+      "root_word": "ح ر م"
+    },
+    {
+      "root_id": 707,
+      "root_word": "ف ر ض"
+    },
+    {
+      "root_id": 708,
+      "root_word": "ق د س"
+    },
+    {
+      "root_id": 709,
+      "root_word": "غ م ز"
+    },
+    {
+      "root_id": 710,
+      "root_word": "ك ن س"
+    },
+    {
+      "root_id": 711,
+      "root_word": "ل غ و"
+    },
+    {
+      "root_id": 712,
+      "root_word": "م س خ"
+    },
+    {
+      "root_id": 713,
+      "root_word": "خ س ر"
+    },
+    {
+      "root_id": 714,
+      "root_word": "ح س د"
+    },
+    {
+      "root_id": 715,
+      "root_word": "ا و"
+    },
+    {
+      "root_id": 716,
+      "root_word": "و ي ك"
+    },
+    {
+      "root_id": 717,
+      "root_word": "س ك ن"
+    },
+    {
+      "root_id": 718,
+      "root_word": "م و ت"
+    },
+    {
+      "root_id": 719,
+      "root_word": "ا م ن"
+    },
+    {
+      "root_id": 720,
+      "root_word": "ن ب ع"
+    },
+    {
+      "root_id": 721,
+      "root_word": "و ل ي"
+    },
+    {
+      "root_id": 722,
+      "root_word": "س و م"
+    },
+    {
+      "root_id": 723,
+      "root_word": "م ر ج"
+    },
+    {
+      "root_id": 724,
+      "root_word": "و س و س"
+    },
+    {
+      "root_id": 725,
+      "root_word": "ا د م"
+    },
+    {
+      "root_id": 726,
+      "root_word": "ا ص ل"
+    },
+    {
+      "root_id": 727,
+      "root_word": "ن د ي"
+    },
+    {
+      "root_id": 728,
+      "root_word": "ا ر ك"
+    },
+    {
+      "root_id": 729,
+      "root_word": "ح ج ب"
+    },
+    {
+      "root_id": 730,
+      "root_word": "ض غ ث"
+    },
+    {
+      "root_id": 731,
+      "root_word": "ض ي ز"
+    },
+    {
+      "root_id": 732,
+      "root_word": "ع ر ي"
+    },
+    {
+      "root_id": 733,
+      "root_word": "خ ف ض"
+    },
+    {
+      "root_id": 734,
+      "root_word": "ش ه د"
+    },
+    {
+      "root_id": 735,
+      "root_word": "ش م س"
+    },
+    {
+      "root_id": 736,
+      "root_word": "س ر ع"
+    },
+    {
+      "root_id": 737,
+      "root_word": "ج ن د"
+    },
+    {
+      "root_id": 738,
+      "root_word": "ك م ل"
+    },
+    {
+      "root_id": 739,
+      "root_word": "م ر ر"
+    },
+    {
+      "root_id": 740,
+      "root_word": "ب ل و"
+    },
+    {
+      "root_id": 741,
+      "root_word": "ك ي د"
+    },
+    {
+      "root_id": 742,
+      "root_word": "ش ر د"
+    },
+    {
+      "root_id": 743,
+      "root_word": "س ب ب"
+    },
+    {
+      "root_id": 744,
+      "root_word": "ح ف ر"
+    },
+    {
+      "root_id": 745,
+      "root_word": "خ ب ل"
+    },
+    {
+      "root_id": 746,
+      "root_word": "و ب ل"
+    },
+    {
+      "root_id": 747,
+      "root_word": "ر ب ط"
+    },
+    {
+      "root_id": 748,
+      "root_word": "د ر ك"
+    },
+    {
+      "root_id": 749,
+      "root_word": "ص ب ح"
+    },
+    {
+      "root_id": 750,
+      "root_word": "ن ج س"
+    },
+    {
+      "root_id": 751,
+      "root_word": "ن ض ر"
+    },
+    {
+      "root_id": 752,
+      "root_word": "ج د ل"
+    },
+    {
+      "root_id": 753,
+      "root_word": "ف و ز"
+    },
+    {
+      "root_id": 754,
+      "root_word": "ص د ع"
+    },
+    {
+      "root_id": 755,
+      "root_word": "غ و ي"
+    },
+    {
+      "root_id": 756,
+      "root_word": "ن ك ر"
+    },
+    {
+      "root_id": 757,
+      "root_word": "ز ه ر"
+    },
+    {
+      "root_id": 758,
+      "root_word": "ز خ ر ف"
+    },
+    {
+      "root_id": 759,
+      "root_word": "س ق م"
+    },
+    {
+      "root_id": 760,
+      "root_word": "ب ت ل"
+    },
+    {
+      "root_id": 761,
+      "root_word": "ا ي"
+    },
+    {
+      "root_id": 762,
+      "root_word": "ع ر م"
+    },
+    {
+      "root_id": 763,
+      "root_word": "و ك ل"
+    },
+    {
+      "root_id": 764,
+      "root_word": "ج ر ي"
+    },
+    {
+      "root_id": 765,
+      "root_word": "ش ي ب"
+    },
+    {
+      "root_id": 766,
+      "root_word": "ك ف ل"
+    },
+    {
+      "root_id": 767,
+      "root_word": "ع ر ر"
+    },
+    {
+      "root_id": 768,
+      "root_word": "م ص ر"
+    },
+    {
+      "root_id": 769,
+      "root_word": "غ ف ر"
+    },
+    {
+      "root_id": 770,
+      "root_word": "ح و ج"
+    },
+    {
+      "root_id": 771,
+      "root_word": "ح ل ق"
+    },
+    {
+      "root_id": 772,
+      "root_word": "غ م ض"
+    },
+    {
+      "root_id": 773,
+      "root_word": "ث و ر"
+    },
+    {
+      "root_id": 774,
+      "root_word": "ب ل ع"
+    },
+    {
+      "root_id": 775,
+      "root_word": "ب و ل"
+    },
+    {
+      "root_id": 776,
+      "root_word": "ح ص ل"
+    },
+    {
+      "root_id": 777,
+      "root_word": "ا ل م ص"
+    },
+    {
+      "root_id": 778,
+      "root_word": "ل ق ب"
+    },
+    {
+      "root_id": 779,
+      "root_word": "ن و م"
+    },
+    {
+      "root_id": 780,
+      "root_word": "ب ه ت"
+    },
+    {
+      "root_id": 781,
+      "root_word": "س ف ل"
+    },
+    {
+      "root_id": 782,
+      "root_word": "ك ل ا"
+    },
+    {
+      "root_id": 783,
+      "root_word": "ف و ق"
+    },
+    {
+      "root_id": 784,
+      "root_word": "ق ط ط"
+    },
+    {
+      "root_id": 785,
+      "root_word": "ر ب م ا"
+    },
+    {
+      "root_id": 786,
+      "root_word": "ص ف ن"
+    },
+    {
+      "root_id": 787,
+      "root_word": "ه ي ت"
+    },
+    {
+      "root_id": 788,
+      "root_word": "ي س ف"
+    },
+    {
+      "root_id": 789,
+      "root_word": "ر ه ن"
+    },
+    {
+      "root_id": 790,
+      "root_word": "س ح ر"
+    },
+    {
+      "root_id": 791,
+      "root_word": "و ق ر"
+    },
+    {
+      "root_id": 792,
+      "root_word": "ح ب ل"
+    },
+    {
+      "root_id": 793,
+      "root_word": "ش و ك"
+    },
+    {
+      "root_id": 794,
+      "root_word": "ح ق ق"
+    },
+    {
+      "root_id": 795,
+      "root_word": "ب ن و"
+    },
+    {
+      "root_id": 796,
+      "root_word": "غ م م"
+    },
+    {
+      "root_id": 797,
+      "root_word": "ل ه ب"
+    },
+    {
+      "root_id": 798,
+      "root_word": "ن خ ر"
+    },
+    {
+      "root_id": 799,
+      "root_word": "و ك ز"
+    },
+    {
+      "root_id": 800,
+      "root_word": "ع م م ا"
+    },
+    {
+      "root_id": 801,
+      "root_word": "ج ث م"
+    },
+    {
+      "root_id": 802,
+      "root_word": "ل ا ن"
+    },
+    {
+      "root_id": 803,
+      "root_word": "ف ح ش"
+    },
+    {
+      "root_id": 804,
+      "root_word": "ف ر ي"
+    },
+    {
+      "root_id": 805,
+      "root_word": "ه م ز"
+    },
+    {
+      "root_id": 806,
+      "root_word": "د ث ر"
+    },
+    {
+      "root_id": 807,
+      "root_word": "س ر د"
+    },
+    {
+      "root_id": 808,
+      "root_word": "م ك ر"
+    },
+    {
+      "root_id": 809,
+      "root_word": "ه ا ذ"
+    },
+    {
+      "root_id": 810,
+      "root_word": "ك ف ي"
+    },
+    {
+      "root_id": 811,
+      "root_word": "و ض ن"
+    },
+    {
+      "root_id": 812,
+      "root_word": "خ ف ي"
+    },
+    {
+      "root_id": 813,
+      "root_word": "ز م ر"
+    },
+    {
+      "root_id": 814,
+      "root_word": "ي س ع"
+    },
+    {
+      "root_id": 815,
+      "root_word": "و ض ع"
+    },
+    {
+      "root_id": 816,
+      "root_word": "ع ي ر"
+    },
+    {
+      "root_id": 817,
+      "root_word": "ر ي ن"
+    },
+    {
+      "root_id": 818,
+      "root_word": "ق ف ل"
+    },
+    {
+      "root_id": 819,
+      "root_word": "ق ط ع"
+    },
+    {
+      "root_id": 820,
+      "root_word": "ش ب ه"
+    },
+    {
+      "root_id": 821,
+      "root_word": "ذ ك ي"
+    },
+    {
+      "root_id": 822,
+      "root_word": "ع و ج"
+    },
+    {
+      "root_id": 823,
+      "root_word": "س د ي"
+    },
+    {
+      "root_id": 824,
+      "root_word": "ر غ م"
+    },
+    {
+      "root_id": 825,
+      "root_word": "ع ر ض"
+    },
+    {
+      "root_id": 826,
+      "root_word": "ج ر ر"
+    },
+    {
+      "root_id": 827,
+      "root_word": "ب غ ل"
+    },
+    {
+      "root_id": 828,
+      "root_word": "ف ي ض"
+    },
+    {
+      "root_id": 829,
+      "root_word": "ش ت ت"
+    },
+    {
+      "root_id": 830,
+      "root_word": "ن ش ط"
+    },
+    {
+      "root_id": 831,
+      "root_word": "د ن و"
+    },
+    {
+      "root_id": 832,
+      "root_word": "ط و ل"
+    },
+    {
+      "root_id": 833,
+      "root_word": "ج ر ح"
+    },
+    {
+      "root_id": 834,
+      "root_word": "غ م ر"
+    },
+    {
+      "root_id": 835,
+      "root_word": "ا ز ز"
+    },
+    {
+      "root_id": 836,
+      "root_word": "ا ز ر"
+    },
+    {
+      "root_id": 837,
+      "root_word": "ج ل ت"
+    },
+    {
+      "root_id": 838,
+      "root_word": "خ ر ج"
+    },
+    {
+      "root_id": 839,
+      "root_word": "ش ع ل"
+    },
+    {
+      "root_id": 840,
+      "root_word": "ت م م"
+    },
+    {
+      "root_id": 841,
+      "root_word": "س ي ب"
+    },
+    {
+      "root_id": 842,
+      "root_word": "ت ل ك"
+    },
+    {
+      "root_id": 843,
+      "root_word": "ب ل د"
+    },
+    {
+      "root_id": 844,
+      "root_word": "ق ص م"
+    },
+    {
+      "root_id": 845,
+      "root_word": "ه ش م"
+    },
+    {
+      "root_id": 846,
+      "root_word": "خ د د"
+    },
+    {
+      "root_id": 847,
+      "root_word": "ث ل ل"
+    },
+    {
+      "root_id": 848,
+      "root_word": "ص ن و"
+    },
+    {
+      "root_id": 849,
+      "root_word": "ع ق ر"
+    },
+    {
+      "root_id": 850,
+      "root_word": "ب خ ع"
+    },
+    {
+      "root_id": 851,
+      "root_word": "ا ح د"
+    },
+    {
+      "root_id": 852,
+      "root_word": "ص ن م"
+    },
+    {
+      "root_id": 853,
+      "root_word": "ح و ش"
+    },
+    {
+      "root_id": 854,
+      "root_word": "ا ن"
+    },
+    {
+      "root_id": 855,
+      "root_word": "م ز ج"
+    },
+    {
+      "root_id": 856,
+      "root_word": "ك ب ر"
+    },
+    {
+      "root_id": 857,
+      "root_word": "ع ض ل"
+    },
+    {
+      "root_id": 858,
+      "root_word": "ذ ا ب"
+    },
+    {
+      "root_id": 859,
+      "root_word": "ث ع ب"
+    },
+    {
+      "root_id": 860,
+      "root_word": "ب ث ث"
+    },
+    {
+      "root_id": 861,
+      "root_word": "ش م ز"
+    },
+    {
+      "root_id": 862,
+      "root_word": "ش ر ق"
+    },
+    {
+      "root_id": 863,
+      "root_word": "ط ل ت"
+    },
+    {
+      "root_id": 864,
+      "root_word": "ز ل ل"
+    },
+    {
+      "root_id": 865,
+      "root_word": "ن ج م"
+    },
+    {
+      "root_id": 866,
+      "root_word": "ا ل ت"
+    },
+    {
+      "root_id": 867,
+      "root_word": "ن ح ت"
+    },
+    {
+      "root_id": 868,
+      "root_word": "ف ت ل"
+    },
+    {
+      "root_id": 869,
+      "root_word": "س ل ك"
+    },
+    {
+      "root_id": 870,
+      "root_word": "ع ن ق"
+    },
+    {
+      "root_id": 871,
+      "root_word": "ش ع ب"
+    },
+    {
+      "root_id": 872,
+      "root_word": "ب غ ت"
+    },
+    {
+      "root_id": 873,
+      "root_word": "ت ع س"
+    },
+    {
+      "root_id": 874,
+      "root_word": "ا و ي"
+    },
+    {
+      "root_id": 875,
+      "root_word": "ع و م"
+    },
+    {
+      "root_id": 876,
+      "root_word": "ب ي د"
+    },
+    {
+      "root_id": 877,
+      "root_word": "ف ه م"
+    },
+    {
+      "root_id": 878,
+      "root_word": "م ن ي"
+    },
+    {
+      "root_id": 879,
+      "root_word": "ي س ر"
+    },
+    {
+      "root_id": 880,
+      "root_word": "ت ف ث"
+    },
+    {
+      "root_id": 881,
+      "root_word": "ت ج ر"
+    },
+    {
+      "root_id": 882,
+      "root_word": "ح ج ز"
+    },
+    {
+      "root_id": 883,
+      "root_word": "غ ض ض"
+    },
+    {
+      "root_id": 884,
+      "root_word": "م ي ل"
+    },
+    {
+      "root_id": 885,
+      "root_word": "ذ خ ر"
+    },
+    {
+      "root_id": 886,
+      "root_word": "ل د ن"
+    },
+    {
+      "root_id": 887,
+      "root_word": "ن خ ل"
+    },
+    {
+      "root_id": 888,
+      "root_word": "ك د ح"
+    },
+    {
+      "root_id": 889,
+      "root_word": "ب و ر"
+    },
+    {
+      "root_id": 890,
+      "root_word": "ك ا ن"
+    },
+    {
+      "root_id": 891,
+      "root_word": "ك ا س"
+    },
+    {
+      "root_id": 892,
+      "root_word": "ر ح ب"
+    },
+    {
+      "root_id": 893,
+      "root_word": "ا ت ي"
+    },
+    {
+      "root_id": 894,
+      "root_word": "خ ط ا"
+    },
+    {
+      "root_id": 895,
+      "root_word": "ق ص د"
+    },
+    {
+      "root_id": 896,
+      "root_word": "د س و"
+    },
+    {
+      "root_id": 897,
+      "root_word": "ض ج ع"
+    },
+    {
+      "root_id": 898,
+      "root_word": "ج ه ل"
+    },
+    {
+      "root_id": 899,
+      "root_word": "ر ج ف"
+    },
+    {
+      "root_id": 900,
+      "root_word": "ب س ل"
+    },
+    {
+      "root_id": 901,
+      "root_word": "ع ج م"
+    },
+    {
+      "root_id": 902,
+      "root_word": "ا ب و"
+    },
+    {
+      "root_id": 903,
+      "root_word": "ط ب ع"
+    },
+    {
+      "root_id": 904,
+      "root_word": "خ ب و"
+    },
+    {
+      "root_id": 905,
+      "root_word": "ر ز ق"
+    },
+    {
+      "root_id": 906,
+      "root_word": "د ه ر"
+    },
+    {
+      "root_id": 907,
+      "root_word": "س ي ر"
+    },
+    {
+      "root_id": 908,
+      "root_word": "ك د ر"
+    },
+    {
+      "root_id": 909,
+      "root_word": "ع ث و"
+    },
+    {
+      "root_id": 910,
+      "root_word": "ك س ل"
+    },
+    {
+      "root_id": 911,
+      "root_word": "ح ر ص"
+    },
+    {
+      "root_id": 912,
+      "root_word": "ش ا م"
+    },
+    {
+      "root_id": 913,
+      "root_word": "س ر م د"
+    },
+    {
+      "root_id": 914,
+      "root_word": "غ س ق"
+    },
+    {
+      "root_id": 915,
+      "root_word": "ب ل س"
+    },
+    {
+      "root_id": 916,
+      "root_word": "غ ز و"
+    },
+    {
+      "root_id": 917,
+      "root_word": "ع ي ش"
+    },
+    {
+      "root_id": 918,
+      "root_word": "ظ م ا"
+    },
+    {
+      "root_id": 919,
+      "root_word": "ن ش ر"
+    },
+    {
+      "root_id": 920,
+      "root_word": "ك ف ا"
+    },
+    {
+      "root_id": 921,
+      "root_word": "ج ر ز"
+    },
+    {
+      "root_id": 922,
+      "root_word": "ر ا ي"
+    },
+    {
+      "root_id": 923,
+      "root_word": "د ف ع"
+    },
+    {
+      "root_id": 924,
+      "root_word": "ا م م ا"
+    },
+    {
+      "root_id": 925,
+      "root_word": "ه ب ط"
+    },
+    {
+      "root_id": 926,
+      "root_word": "خ م ط"
+    },
+    {
+      "root_id": 927,
+      "root_word": "ط ف ف"
+    },
+    {
+      "root_id": 928,
+      "root_word": "ا ن ت م"
+    },
+    {
+      "root_id": 929,
+      "root_word": "ه ن ي"
+    },
+    {
+      "root_id": 930,
+      "root_word": "ا ن ن ي"
+    },
+    {
+      "root_id": 931,
+      "root_word": "م س ك"
+    },
+    {
+      "root_id": 932,
+      "root_word": "ن و ح"
+    },
+    {
+      "root_id": 933,
+      "root_word": "ل م ح"
+    },
+    {
+      "root_id": 934,
+      "root_word": "ز ر ب"
+    },
+    {
+      "root_id": 935,
+      "root_word": "ع م ه"
+    },
+    {
+      "root_id": 936,
+      "root_word": "ق ض ي"
+    },
+    {
+      "root_id": 937,
+      "root_word": "ذ ق ن"
+    },
+    {
+      "root_id": 938,
+      "root_word": "ق د ر"
+    },
+    {
+      "root_id": 939,
+      "root_word": "ف و م"
+    },
+    {
+      "root_id": 940,
+      "root_word": "م ه ل"
+    },
+    {
+      "root_id": 941,
+      "root_word": "ك س د"
+    },
+    {
+      "root_id": 942,
+      "root_word": "ص د ق"
+    },
+    {
+      "root_id": 943,
+      "root_word": "و ب ق"
+    },
+    {
+      "root_id": 944,
+      "root_word": "خ ط و"
+    },
+    {
+      "root_id": 945,
+      "root_word": "ك ظ م"
+    },
+    {
+      "root_id": 946,
+      "root_word": "خ م ر"
+    },
+    {
+      "root_id": 947,
+      "root_word": "ح ط ط"
+    },
+    {
+      "root_id": 948,
+      "root_word": "ز ح ف"
+    },
+    {
+      "root_id": 949,
+      "root_word": "ف ن ن"
+    },
+    {
+      "root_id": 950,
+      "root_word": "ا ن ت"
+    },
+    {
+      "root_id": 951,
+      "root_word": "غ ل م"
+    },
+    {
+      "root_id": 952,
+      "root_word": "ن س و"
+    },
+    {
+      "root_id": 953,
+      "root_word": "ض و ر ر"
+    },
+    {
+      "root_id": 954,
+      "root_word": "ن ح ن"
+    },
+    {
+      "root_id": 955,
+      "root_word": "د ا ب"
+    },
+    {
+      "root_id": 956,
+      "root_word": "ر ي ع"
+    },
+    {
+      "root_id": 957,
+      "root_word": "ا س ف"
+    },
+    {
+      "root_id": 958,
+      "root_word": "و ق ي"
+    },
+    {
+      "root_id": 959,
+      "root_word": "ذ ب ح"
+    },
+    {
+      "root_id": 960,
+      "root_word": "ع د و"
+    },
+    {
+      "root_id": 961,
+      "root_word": "ب ع ث"
+    },
+    {
+      "root_id": 962,
+      "root_word": "ا ص ر"
+    },
+    {
+      "root_id": 963,
+      "root_word": "خ ل و"
+    },
+    {
+      "root_id": 964,
+      "root_word": "ق ر ح"
+    },
+    {
+      "root_id": 965,
+      "root_word": "ج م ع  ا"
+    },
+    {
+      "root_id": 966,
+      "root_word": "ب ك م"
+    },
+    {
+      "root_id": 967,
+      "root_word": "ل ب د"
+    },
+    {
+      "root_id": 968,
+      "root_word": "خ ل ل"
+    },
+    {
+      "root_id": 969,
+      "root_word": "ح م ا"
+    },
+    {
+      "root_id": 970,
+      "root_word": "ث ج ج"
+    },
+    {
+      "root_id": 971,
+      "root_word": "م و ل"
+    },
+    {
+      "root_id": 972,
+      "root_word": "ق د"
+    },
+    {
+      "root_id": 973,
+      "root_word": "س ل و"
+    },
+    {
+      "root_id": 974,
+      "root_word": "س ي ل"
+    },
+    {
+      "root_id": 975,
+      "root_word": "ر ه ط"
+    },
+    {
+      "root_id": 976,
+      "root_word": "غ ث ا"
+    },
+    {
+      "root_id": 977,
+      "root_word": "ن ك س"
+    },
+    {
+      "root_id": 978,
+      "root_word": "ص خ ر"
+    },
+    {
+      "root_id": 979,
+      "root_word": "ج ز ا"
+    },
+    {
+      "root_id": 980,
+      "root_word": "و ص ل"
+    },
+    {
+      "root_id": 981,
+      "root_word": "ح ط م"
+    },
+    {
+      "root_id": 982,
+      "root_word": "خ ص م"
+    },
+    {
+      "root_id": 983,
+      "root_word": "ن ص ف"
+    },
+    {
+      "root_id": 984,
+      "root_word": "ث ق ب"
+    },
+    {
+      "root_id": 985,
+      "root_word": "ح ن ذ"
+    },
+    {
+      "root_id": 986,
+      "root_word": "ق ط ف"
+    },
+    {
+      "root_id": 987,
+      "root_word": "ر ح ل"
+    },
+    {
+      "root_id": 988,
+      "root_word": "ش و ر"
+    },
+    {
+      "root_id": 989,
+      "root_word": "ب ق ع"
+    },
+    {
+      "root_id": 990,
+      "root_word": "ا ي ك"
+    },
+    {
+      "root_id": 991,
+      "root_word": "ض د د"
+    },
+    {
+      "root_id": 992,
+      "root_word": "ه م ر"
+    },
+    {
+      "root_id": 993,
+      "root_word": "ه و ن"
+    },
+    {
+      "root_id": 994,
+      "root_word": "ل ق ي"
+    },
+    {
+      "root_id": 995,
+      "root_word": "د ح ر"
+    },
+    {
+      "root_id": 996,
+      "root_word": "ن ف ع"
+    },
+    {
+      "root_id": 997,
+      "root_word": "ح م ل"
+    },
+    {
+      "root_id": 998,
+      "root_word": "م ن ن"
+    },
+    {
+      "root_id": 999,
+      "root_word": "س د س"
+    },
+    {
+      "root_id": 1000,
+      "root_word": "ز ي د"
+    },
+    {
+      "root_id": 1001,
+      "root_word": "ع و ر"
+    },
+    {
+      "root_id": 1002,
+      "root_word": "د ب ر"
+    },
+    {
+      "root_id": 1003,
+      "root_word": "ط ي ر"
+    },
+    {
+      "root_id": 1004,
+      "root_word": "ح ث ث"
+    },
+    {
+      "root_id": 1005,
+      "root_word": "ن ق ص"
+    },
+    {
+      "root_id": 1006,
+      "root_word": "س ل ط"
+    },
+    {
+      "root_id": 1007,
+      "root_word": "ا خ ر"
+    },
+    {
+      "root_id": 1008,
+      "root_word": "ن ف ل"
+    },
+    {
+      "root_id": 1009,
+      "root_word": "ل ح ي"
+    },
+    {
+      "root_id": 1010,
+      "root_word": "س و ط"
+    },
+    {
+      "root_id": 1011,
+      "root_word": "و ج ب"
+    },
+    {
+      "root_id": 1012,
+      "root_word": "ق ض ب"
+    },
+    {
+      "root_id": 1013,
+      "root_word": "ن و س  ا"
+    },
+    {
+      "root_id": 1014,
+      "root_word": "ك م ه"
+    },
+    {
+      "root_id": 1015,
+      "root_word": "ث ب ت"
+    },
+    {
+      "root_id": 1016,
+      "root_word": "ج ح م"
+    },
+    {
+      "root_id": 1017,
+      "root_word": "ي س"
+    },
+    {
+      "root_id": 1018,
+      "root_word": "ز ن ج ب ي ل"
+    },
+    {
+      "root_id": 1019,
+      "root_word": "ن ق ذ"
+    },
+    {
+      "root_id": 1020,
+      "root_word": "و ه ب"
+    },
+    {
+      "root_id": 1021,
+      "root_word": "د و م"
+    },
+    {
+      "root_id": 1022,
+      "root_word": "ن س ا"
+    },
+    {
+      "root_id": 1023,
+      "root_word": "ن س ك"
+    },
+    {
+      "root_id": 1024,
+      "root_word": "م ن ع"
+    },
+    {
+      "root_id": 1025,
+      "root_word": "ر ض ع"
+    },
+    {
+      "root_id": 1026,
+      "root_word": "د ه ق"
+    },
+    {
+      "root_id": 1027,
+      "root_word": "غ ر ر"
+    },
+    {
+      "root_id": 1028,
+      "root_word": "ر س ل"
+    },
+    {
+      "root_id": 1029,
+      "root_word": "ر س خ"
+    },
+    {
+      "root_id": 1030,
+      "root_word": "ا ب ق"
+    },
+    {
+      "root_id": 1031,
+      "root_word": "ج ب ب"
+    },
+    {
+      "root_id": 1032,
+      "root_word": "ه ا ا"
+    },
+    {
+      "root_id": 1033,
+      "root_word": "ف ر د س"
+    },
+    {
+      "root_id": 1034,
+      "root_word": "غ و ث"
+    },
+    {
+      "root_id": 1035,
+      "root_word": "ج ن ي"
+    },
+    {
+      "root_id": 1036,
+      "root_word": "ح ي ي"
+    },
+    {
+      "root_id": 1037,
+      "root_word": "س ع ر"
+    },
+    {
+      "root_id": 1038,
+      "root_word": "ذ ع ن"
+    },
+    {
+      "root_id": 1039,
+      "root_word": "ل ن"
+    },
+    {
+      "root_id": 1040,
+      "root_word": "ح م د"
+    },
+    {
+      "root_id": 1041,
+      "root_word": "ر ع د"
+    },
+    {
+      "root_id": 1042,
+      "root_word": "ق س م"
+    },
+    {
+      "root_id": 1043,
+      "root_word": "ن ز ع"
+    },
+    {
+      "root_id": 1044,
+      "root_word": "ض ب ح"
+    },
+    {
+      "root_id": 1045,
+      "root_word": "م ر ي"
+    },
+    {
+      "root_id": 1046,
+      "root_word": "ف ز ع"
+    },
+    {
+      "root_id": 1047,
+      "root_word": "ك ل ح"
+    },
+    {
+      "root_id": 1048,
+      "root_word": "ص ر ف"
+    },
+    {
+      "root_id": 1049,
+      "root_word": "خ م س"
+    },
+    {
+      "root_id": 1050,
+      "root_word": "ك ف ف"
+    },
+    {
+      "root_id": 1051,
+      "root_word": "ب د ا"
+    },
+    {
+      "root_id": 1052,
+      "root_word": "ذ ه ب"
+    },
+    {
+      "root_id": 1053,
+      "root_word": "ر ا س"
+    },
+    {
+      "root_id": 1054,
+      "root_word": "ب ك ك"
+    },
+    {
+      "root_id": 1055,
+      "root_word": "ت و ر"
+    },
+    {
+      "root_id": 1056,
+      "root_word": "ن ح ر"
+    },
+    {
+      "root_id": 1057,
+      "root_word": "و ص ي"
+    },
+    {
+      "root_id": 1058,
+      "root_word": "ع ي ن"
+    },
+    {
+      "root_id": 1059,
+      "root_word": "ب د ر"
+    },
+    {
+      "root_id": 1060,
+      "root_word": "ف ض ل"
+    },
+    {
+      "root_id": 1061,
+      "root_word": "ض ل ل"
+    },
+    {
+      "root_id": 1062,
+      "root_word": "ص ر ر"
+    },
+    {
+      "root_id": 1063,
+      "root_word": "ل ذ ذ"
+    },
+    {
+      "root_id": 1064,
+      "root_word": "ح ل ل"
+    },
+    {
+      "root_id": 1065,
+      "root_word": "ر م م"
+    },
+    {
+      "root_id": 1066,
+      "root_word": "و د ي"
+    },
+    {
+      "root_id": 1067,
+      "root_word": "ق ن ع"
+    },
+    {
+      "root_id": 1068,
+      "root_word": "ش ر ر"
+    },
+    {
+      "root_id": 1069,
+      "root_word": "ز ف ف"
+    },
+    {
+      "root_id": 1070,
+      "root_word": "ف ت ر"
+    },
+    {
+      "root_id": 1071,
+      "root_word": "ح س م"
+    },
+    {
+      "root_id": 1072,
+      "root_word": "ج ز ع"
+    },
+    {
+      "root_id": 1073,
+      "root_word": "ن ص ت"
+    },
+    {
+      "root_id": 1074,
+      "root_word": "ج م ل"
+    },
+    {
+      "root_id": 1075,
+      "root_word": "م و س"
+    },
+    {
+      "root_id": 1076,
+      "root_word": "ج د ر"
+    },
+    {
+      "root_id": 1077,
+      "root_word": "ح د د"
+    },
+    {
+      "root_id": 1078,
+      "root_word": "ع ف ف"
+    },
+    {
+      "root_id": 1079,
+      "root_word": "ق ل ل"
+    },
+    {
+      "root_id": 1080,
+      "root_word": "ب غ ي"
+    },
+    {
+      "root_id": 1081,
+      "root_word": "ب ر ك"
+    },
+    {
+      "root_id": 1082,
+      "root_word": "ن ض د"
+    },
+    {
+      "root_id": 1083,
+      "root_word": "س ع د"
+    },
+    {
+      "root_id": 1084,
+      "root_word": "و ط ن"
+    },
+    {
+      "root_id": 1085,
+      "root_word": "ق ض ض"
+    },
+    {
+      "root_id": 1086,
+      "root_word": "ق م ح"
+    },
+    {
+      "root_id": 1087,
+      "root_word": "ف ض ح"
+    },
+    {
+      "root_id": 1088,
+      "root_word": "و ف د"
+    },
+    {
+      "root_id": 1089,
+      "root_word": "غ ل ب"
+    },
+    {
+      "root_id": 1090,
+      "root_word": "ق ه ر"
+    },
+    {
+      "root_id": 1091,
+      "root_word": "ث ب ر"
+    },
+    {
+      "root_id": 1092,
+      "root_word": "ح ت ت ي"
+    },
+    {
+      "root_id": 1093,
+      "root_word": "ح ف ي"
+    },
+    {
+      "root_id": 1094,
+      "root_word": "س ه م"
+    },
+    {
+      "root_id": 1095,
+      "root_word": "غ و ص"
+    },
+    {
+      "root_id": 1096,
+      "root_word": "ك ي ل"
+    },
+    {
+      "root_id": 1097,
+      "root_word": "س ل س ب"
+    },
+    {
+      "root_id": 1098,
+      "root_word": "م ي د"
+    },
+    {
+      "root_id": 1099,
+      "root_word": "ف س د"
+    },
+    {
+      "root_id": 1100,
+      "root_word": "ن و ن"
+    },
+    {
+      "root_id": 1101,
+      "root_word": "ا ب ي"
+    },
+    {
+      "root_id": 1102,
+      "root_word": "س خ ط"
+    },
+    {
+      "root_id": 1103,
+      "root_word": "ف ل ك"
+    },
+    {
+      "root_id": 1104,
+      "root_word": "ل ي ن"
+    },
+    {
+      "root_id": 1105,
+      "root_word": "ع ر ج و"
+    },
+    {
+      "root_id": 1106,
+      "root_word": "ش م ل"
+    },
+    {
+      "root_id": 1107,
+      "root_word": "ق م ص"
+    },
+    {
+      "root_id": 1108,
+      "root_word": "غ ص ب"
+    },
+    {
+      "root_id": 1109,
+      "root_word": "و د د"
+    },
+    {
+      "root_id": 1110,
+      "root_word": "ا ب ل"
+    },
+    {
+      "root_id": 1111,
+      "root_word": "و ت ر"
+    },
+    {
+      "root_id": 1112,
+      "root_word": "غ ي ب"
+    },
+    {
+      "root_id": 1113,
+      "root_word": "ذ ر ر"
+    },
+    {
+      "root_id": 1114,
+      "root_word": "ك ث ر"
+    },
+    {
+      "root_id": 1115,
+      "root_word": "ق ص ر"
+    },
+    {
+      "root_id": 1116,
+      "root_word": "غ و ر"
+    },
+    {
+      "root_id": 1117,
+      "root_word": "ف خ ر"
+    },
+    {
+      "root_id": 1118,
+      "root_word": "ل ق ف"
+    },
+    {
+      "root_id": 1119,
+      "root_word": "ن ت ق"
+    },
+    {
+      "root_id": 1120,
+      "root_word": "س ر ج"
+    },
+    {
+      "root_id": 1121,
+      "root_word": "ك ه ف"
+    },
+    {
+      "root_id": 1122,
+      "root_word": "ع د ل"
+    },
+    {
+      "root_id": 1123,
+      "root_word": "ب ر ا"
+    },
+    {
+      "root_id": 1124,
+      "root_word": "غ ل ظ"
+    },
+    {
+      "root_id": 1125,
+      "root_word": "ا ي د"
+    },
+    {
+      "root_id": 1126,
+      "root_word": "ب ر د"
+    },
+    {
+      "root_id": 1127,
+      "root_word": "ط ب ق"
+    },
+    {
+      "root_id": 1128,
+      "root_word": "ر ب و"
+    },
+    {
+      "root_id": 1129,
+      "root_word": "خ ز ن"
+    },
+    {
+      "root_id": 1130,
+      "root_word": "ا ن م"
+    },
+    {
+      "root_id": 1131,
+      "root_word": "ا م د"
+    },
+    {
+      "root_id": 1132,
+      "root_word": "ذ ر و"
+    },
+    {
+      "root_id": 1133,
+      "root_word": "ص ع ر"
+    },
+    {
+      "root_id": 1134,
+      "root_word": "ق ب ح"
+    },
+    {
+      "root_id": 1135,
+      "root_word": "ل م م"
+    },
+    {
+      "root_id": 1136,
+      "root_word": "ز ق م"
+    },
+    {
+      "root_id": 1137,
+      "root_word": "ا ذ ن"
+    },
+    {
+      "root_id": 1138,
+      "root_word": "ز ي غ"
+    },
+    {
+      "root_id": 1139,
+      "root_word": "ط ع ن"
+    },
+    {
+      "root_id": 1140,
+      "root_word": "ه ج ر"
+    },
+    {
+      "root_id": 1141,
+      "root_word": "ش ر ع"
+    },
+    {
+      "root_id": 1142,
+      "root_word": "ك ل ي"
+    },
+    {
+      "root_id": 1143,
+      "root_word": "ظ ع ن"
+    },
+    {
+      "root_id": 1144,
+      "root_word": "ل ج ا"
+    },
+    {
+      "root_id": 1145,
+      "root_word": "ط ل ع"
+    },
+    {
+      "root_id": 1146,
+      "root_word": "ح و ز"
+    },
+    {
+      "root_id": 1147,
+      "root_word": "ع ق م"
+    },
+    {
+      "root_id": 1148,
+      "root_word": "ع ف ر"
+    },
+    {
+      "root_id": 1149,
+      "root_word": "ق ح م"
+    },
+    {
+      "root_id": 1150,
+      "root_word": "د ه م"
+    },
+    {
+      "root_id": 1151,
+      "root_word": "ا و د"
+    },
+    {
+      "root_id": 1152,
+      "root_word": "ي م م"
+    },
+    {
+      "root_id": 1153,
+      "root_word": "ت ب ع"
+    },
+    {
+      "root_id": 1154,
+      "root_word": "ب ا س"
+    },
+    {
+      "root_id": 1155,
+      "root_word": "م ض غ"
+    },
+    {
+      "root_id": 1156,
+      "root_word": "ج ث ث"
+    },
+    {
+      "root_id": 1157,
+      "root_word": "ف ر ش"
+    },
+    {
+      "root_id": 1158,
+      "root_word": "س و ح"
+    },
+    {
+      "root_id": 1159,
+      "root_word": "ح ي ث"
+    },
+    {
+      "root_id": 1160,
+      "root_word": "ش ح م"
+    },
+    {
+      "root_id": 1161,
+      "root_word": "ط ف ق"
+    },
+    {
+      "root_id": 1162,
+      "root_word": "ز م ه ر"
+    },
+    {
+      "root_id": 1163,
+      "root_word": "ا ف ل"
+    },
+    {
+      "root_id": 1164,
+      "root_word": "د م ع"
+    },
+    {
+      "root_id": 1165,
+      "root_word": "ف ل ح"
+    },
+    {
+      "root_id": 1166,
+      "root_word": "م ح ق"
+    },
+    {
+      "root_id": 1167,
+      "root_word": "س ف ه"
+    },
+    {
+      "root_id": 1168,
+      "root_word": "ج ل د"
+    },
+    {
+      "root_id": 1169,
+      "root_word": "ذ ه ل"
+    },
+    {
+      "root_id": 1170,
+      "root_word": "ح م"
+    },
+    {
+      "root_id": 1171,
+      "root_word": "غ ر م"
+    },
+    {
+      "root_id": 1172,
+      "root_word": "د و ل"
+    },
+    {
+      "root_id": 1173,
+      "root_word": "ي و م"
+    },
+    {
+      "root_id": 1174,
+      "root_word": "س ل خ"
+    },
+    {
+      "root_id": 1175,
+      "root_word": "ص د ي"
+    },
+    {
+      "root_id": 1176,
+      "root_word": "ك ش ط"
+    },
+    {
+      "root_id": 1177,
+      "root_word": "ك ي ف"
+    },
+    {
+      "root_id": 1178,
+      "root_word": "ب ا ب"
+    },
+    {
+      "root_id": 1179,
+      "root_word": "ق ط ر"
+    },
+    {
+      "root_id": 1180,
+      "root_word": "ن ب ط"
+    },
+    {
+      "root_id": 1181,
+      "root_word": "غ ن م"
+    },
+    {
+      "root_id": 1182,
+      "root_word": "ن ف ق"
+    },
+    {
+      "root_id": 1183,
+      "root_word": "ن ك ف"
+    },
+    {
+      "root_id": 1184,
+      "root_word": "ش ه و"
+    },
+    {
+      "root_id": 1185,
+      "root_word": "ك س ف"
+    },
+    {
+      "root_id": 1186,
+      "root_word": "ل ي ل"
+    },
+    {
+      "root_id": 1187,
+      "root_word": "ش ق ق"
+    },
+    {
+      "root_id": 1188,
+      "root_word": "ا ي ب"
+    },
+    {
+      "root_id": 1189,
+      "root_word": "ن ق ض"
+    },
+    {
+      "root_id": 1190,
+      "root_word": "ك ف ت"
+    },
+    {
+      "root_id": 1191,
+      "root_word": "د م ي"
+    },
+    {
+      "root_id": 1192,
+      "root_word": "ص"
+    },
+    {
+      "root_id": 1193,
+      "root_word": "خ د ع"
+    },
+    {
+      "root_id": 1194,
+      "root_word": "ع ن ت"
+    },
+    {
+      "root_id": 1195,
+      "root_word": "ط ع م"
+    },
+    {
+      "root_id": 1196,
+      "root_word": "ص ر ص ر"
+    },
+    {
+      "root_id": 1197,
+      "root_word": "ل ف ف"
+    },
+    {
+      "root_id": 1198,
+      "root_word": "ز ل ف"
+    },
+    {
+      "root_id": 1199,
+      "root_word": "ح ب ر"
+    },
+    {
+      "root_id": 1200,
+      "root_word": "ب س س"
+    },
+    {
+      "root_id": 1201,
+      "root_word": "ب ص ل"
+    },
+    {
+      "root_id": 1202,
+      "root_word": "ف ك ه"
+    },
+    {
+      "root_id": 1203,
+      "root_word": "ع ب ا"
+    },
+    {
+      "root_id": 1204,
+      "root_word": "م ت ي"
+    },
+    {
+      "root_id": 1205,
+      "root_word": "م خ ر"
+    },
+    {
+      "root_id": 1206,
+      "root_word": "ن ك ل"
+    },
+    {
+      "root_id": 1207,
+      "root_word": "ح د ب"
+    },
+    {
+      "root_id": 1208,
+      "root_word": "ن ف ح"
+    },
+    {
+      "root_id": 1209,
+      "root_word": "ه م س"
+    },
+    {
+      "root_id": 1210,
+      "root_word": "ح ر د"
+    },
+    {
+      "root_id": 1211,
+      "root_word": "ص ح ف"
+    },
+    {
+      "root_id": 1212,
+      "root_word": "ج و ب"
+    },
+    {
+      "root_id": 1213,
+      "root_word": "ل و ت"
+    },
+    {
+      "root_id": 1214,
+      "root_word": "س ب غ"
+    },
+    {
+      "root_id": 1215,
+      "root_word": "ط و ر"
+    },
+    {
+      "root_id": 1216,
+      "root_word": "و ا ل"
+    },
+    {
+      "root_id": 1217,
+      "root_word": "ح و ذ"
+    },
+    {
+      "root_id": 1218,
+      "root_word": "م ل و"
+    },
+    {
+      "root_id": 1219,
+      "root_word": "ز ه د"
+    },
+    {
+      "root_id": 1220,
+      "root_word": "ط ف ا"
+    },
+    {
+      "root_id": 1221,
+      "root_word": "س ح ت"
+    },
+    {
+      "root_id": 1222,
+      "root_word": "ص ف د"
+    },
+    {
+      "root_id": 1223,
+      "root_word": "ا ل ي"
+    },
+    {
+      "root_id": 1224,
+      "root_word": "ج ن ف"
+    },
+    {
+      "root_id": 1225,
+      "root_word": "ط ي ب"
+    },
+    {
+      "root_id": 1226,
+      "root_word": "ذ ل ك"
+    },
+    {
+      "root_id": 1227,
+      "root_word": "ت ح ت"
+    },
+    {
+      "root_id": 1228,
+      "root_word": "غ ي ظ"
+    },
+    {
+      "root_id": 1229,
+      "root_word": "ب ي ت"
+    },
+    {
+      "root_id": 1230,
+      "root_word": "و ف ق"
+    },
+    {
+      "root_id": 1231,
+      "root_word": "ج ه ز"
+    },
+    {
+      "root_id": 1232,
+      "root_word": "ف ض ض"
+    },
+    {
+      "root_id": 1233,
+      "root_word": "ق ي ل"
+    },
+    {
+      "root_id": 1234,
+      "root_word": "ح ن ك"
+    },
+    {
+      "root_id": 1235,
+      "root_word": "د ر ه م"
+    },
+    {
+      "root_id": 1236,
+      "root_word": "ث ر ي"
+    },
+    {
+      "root_id": 1237,
+      "root_word": "و ح ي"
+    },
+    {
+      "root_id": 1238,
+      "root_word": "ه ر ع"
+    },
+    {
+      "root_id": 1239,
+      "root_word": "ن ز ل"
+    },
+    {
+      "root_id": 1240,
+      "root_word": "ر ع ي"
+    },
+    {
+      "root_id": 1241,
+      "root_word": "ف ر ث"
+    },
+    {
+      "root_id": 1242,
+      "root_word": "ك م"
+    },
+    {
+      "root_id": 1243,
+      "root_word": "ن ط ح"
+    },
+    {
+      "root_id": 1244,
+      "root_word": "ن و س"
+    },
+    {
+      "root_id": 1245,
+      "root_word": "ب ه ج"
+    },
+    {
+      "root_id": 1246,
+      "root_word": "ر ف ث"
+    },
+    {
+      "root_id": 1247,
+      "root_word": "و س ل"
+    },
+    {
+      "root_id": 1248,
+      "root_word": "ل ح م"
+    },
+    {
+      "root_id": 1249,
+      "root_word": "ط ر ح"
+    },
+    {
+      "root_id": 1250,
+      "root_word": "س ج د"
+    },
+    {
+      "root_id": 1251,
+      "root_word": "ر غ ب"
+    },
+    {
+      "root_id": 1252,
+      "root_word": "ب ع ث ر"
+    },
+    {
+      "root_id": 1253,
+      "root_word": "م و ج"
+    },
+    {
+      "root_id": 1254,
+      "root_word": "ب ق ل"
+    },
+    {
+      "root_id": 1255,
+      "root_word": "ن ه ي"
+    },
+    {
+      "root_id": 1256,
+      "root_word": "ن ب ا"
+    },
+    {
+      "root_id": 1257,
+      "root_word": "ث ن ي"
+    },
+    {
+      "root_id": 1258,
+      "root_word": "ف ر ع"
+    },
+    {
+      "root_id": 1259,
+      "root_word": "د س ر"
+    },
+    {
+      "root_id": 1260,
+      "root_word": "ل ب ث"
+    },
+    {
+      "root_id": 1261,
+      "root_word": "خ و ض"
+    },
+    {
+      "root_id": 1262,
+      "root_word": "ت ن و ر"
+    },
+    {
+      "root_id": 1263,
+      "root_word": "ج ب ل"
+    },
+    {
+      "root_id": 1264,
+      "root_word": "ط م ع"
+    },
+    {
+      "root_id": 1265,
+      "root_word": "ش ي ع"
+    },
+    {
+      "root_id": 1266,
+      "root_word": "ك و د"
+    },
+    {
+      "root_id": 1267,
+      "root_word": "ض ح و"
+    },
+    {
+      "root_id": 1268,
+      "root_word": "ح ت م"
+    },
+    {
+      "root_id": 1269,
+      "root_word": "ع و ذ"
+    },
+    {
+      "root_id": 1270,
+      "root_word": "و ر ق"
+    },
+    {
+      "root_id": 1271,
+      "root_word": "ف ق د"
+    },
+    {
+      "root_id": 1272,
+      "root_word": "ا د ي"
+    },
+    {
+      "root_id": 1273,
+      "root_word": "ن ط ق"
+    },
+    {
+      "root_id": 1274,
+      "root_word": "ع ن ي"
+    },
+    {
+      "root_id": 1275,
+      "root_word": "خ ز ي"
+    },
+    {
+      "root_id": 1276,
+      "root_word": "س ا ل"
+    },
+    {
+      "root_id": 1277,
+      "root_word": "م ي ر"
+    },
+    {
+      "root_id": 1278,
+      "root_word": "ي ن ع"
+    },
+    {
+      "root_id": 1279,
+      "root_word": "ف ر ت"
+    },
+    {
+      "root_id": 1280,
+      "root_word": "م ر ض"
+    },
+    {
+      "root_id": 1281,
+      "root_word": "ر ج س"
+    },
+    {
+      "root_id": 1282,
+      "root_word": "ن ط ف"
+    },
+    {
+      "root_id": 1283,
+      "root_word": "ب ر ج"
+    },
+    {
+      "root_id": 1284,
+      "root_word": "ش ر ذ م"
+    },
+    {
+      "root_id": 1285,
+      "root_word": "ن ق ع"
+    },
+    {
+      "root_id": 1286,
+      "root_word": "ر د ا"
+    },
+    {
+      "root_id": 1287,
+      "root_word": "س ن م"
+    },
+    {
+      "root_id": 1288,
+      "root_word": "غ ل ف"
+    },
+    {
+      "root_id": 1289,
+      "root_word": "س ل ب"
+    },
+    {
+      "root_id": 1290,
+      "root_word": "ح ي ن"
+    },
+    {
+      "root_id": 1291,
+      "root_word": "ا ل م"
+    },
+    {
+      "root_id": 1292,
+      "root_word": "د ر س"
+    },
+    {
+      "root_id": 1293,
+      "root_word": "ف ر ر"
+    },
+    {
+      "root_id": 1294,
+      "root_word": "ت ر ف"
+    },
+    {
+      "root_id": 1295,
+      "root_word": "د م ر"
+    },
+    {
+      "root_id": 1296,
+      "root_word": "م ع ي"
+    },
+    {
+      "root_id": 1297,
+      "root_word": "ح س ب"
+    },
+    {
+      "root_id": 1298,
+      "root_word": "خ ب ث"
+    },
+    {
+      "root_id": 1299,
+      "root_word": "ه م"
+    },
+    {
+      "root_id": 1300,
+      "root_word": "ح ي د"
+    },
+    {
+      "root_id": 1301,
+      "root_word": "ف ر د"
+    },
+    {
+      "root_id": 1302,
+      "root_word": "ق ط م ر"
+    },
+    {
+      "root_id": 1303,
+      "root_word": "ت ل ل"
+    },
+    {
+      "root_id": 1304,
+      "root_word": "ر س س"
+    },
+    {
+      "root_id": 1305,
+      "root_word": "س ن ن"
+    },
+    {
+      "root_id": 1306,
+      "root_word": "ع ق ب"
+    },
+    {
+      "root_id": 1307,
+      "root_word": "م ح ص"
+    },
+    {
+      "root_id": 1308,
+      "root_word": "خ ر ر"
+    },
+    {
+      "root_id": 1309,
+      "root_word": "ا م ل"
+    },
+    {
+      "root_id": 1310,
+      "root_word": "ع ب ر"
+    },
+    {
+      "root_id": 1311,
+      "root_word": "ق ع د"
+    },
+    {
+      "root_id": 1312,
+      "root_word": "م ع"
+    },
+    {
+      "root_id": 1313,
+      "root_word": "ر ك د"
+    },
+    {
+      "root_id": 1314,
+      "root_word": "ا ل و ل"
+    },
+    {
+      "root_id": 1315,
+      "root_word": "ن ف ث"
+    },
+    {
+      "root_id": 1316,
+      "root_word": "ك ت م"
+    },
+    {
+      "root_id": 1317,
+      "root_word": "ج و و"
+    },
+    {
+      "root_id": 1318,
+      "root_word": "ر م ض"
+    },
+    {
+      "root_id": 1319,
+      "root_word": "ب ل ي"
+    },
+    {
+      "root_id": 1320,
+      "root_word": "و ع ي"
+    },
+    {
+      "root_id": 1321,
+      "root_word": "ع ذ ر"
+    },
+    {
+      "root_id": 1322,
+      "root_word": "ش ي د"
+    },
+    {
+      "root_id": 1323,
+      "root_word": "ك ل م"
+    },
+    {
+      "root_id": 1324,
+      "root_word": "ر خ و خ"
+    },
+    {
+      "root_id": 1325,
+      "root_word": "ش ن ا"
+    },
+    {
+      "root_id": 1326,
+      "root_word": "ع ج ل"
+    },
+    {
+      "root_id": 1327,
+      "root_word": "ب ق ي"
+    },
+    {
+      "root_id": 1328,
+      "root_word": "ه ل م"
+    },
+    {
+      "root_id": 1329,
+      "root_word": "ح و ل"
+    },
+    {
+      "root_id": 1330,
+      "root_word": "ع ن ك ب"
+    },
+    {
+      "root_id": 1331,
+      "root_word": "ح ر س"
+    },
+    {
+      "root_id": 1332,
+      "root_word": "ك ع ب"
+    },
+    {
+      "root_id": 1333,
+      "root_word": "ف ن ي"
+    },
+    {
+      "root_id": 1334,
+      "root_word": "م ح ل"
+    },
+    {
+      "root_id": 1335,
+      "root_word": "م ي ز"
+    },
+    {
+      "root_id": 1336,
+      "root_word": "ح ي ض"
+    },
+    {
+      "root_id": 1337,
+      "root_word": "ز ك و"
+    },
+    {
+      "root_id": 1338,
+      "root_word": "ط ل ب"
+    },
+    {
+      "root_id": 1339,
+      "root_word": "س ل م"
+    },
+    {
+      "root_id": 1340,
+      "root_word": "ع ض ض"
+    },
+    {
+      "root_id": 1341,
+      "root_word": "ع ل م"
+    },
+    {
+      "root_id": 1342,
+      "root_word": "و ش ي"
+    },
+    {
+      "root_id": 1343,
+      "root_word": "خ ر د ل"
+    },
+    {
+      "root_id": 1344,
+      "root_word": "ي ت م"
+    },
+    {
+      "root_id": 1345,
+      "root_word": "ز ب ن"
+    },
+    {
+      "root_id": 1346,
+      "root_word": "م ض ي"
+    },
+    {
+      "root_id": 1347,
+      "root_word": "ق ذ ف"
+    },
+    {
+      "root_id": 1348,
+      "root_word": "ف ل ن"
+    },
+    {
+      "root_id": 1349,
+      "root_word": "ك ل ل"
+    },
+    {
+      "root_id": 1350,
+      "root_word": "م ه م ا"
+    },
+    {
+      "root_id": 1351,
+      "root_word": "د ر ا"
+    },
+    {
+      "root_id": 1352,
+      "root_word": "د س س"
+    },
+    {
+      "root_id": 1353,
+      "root_word": "ه ض م"
+    },
+    {
+      "root_id": 1354,
+      "root_word": "ا م ت"
+    },
+    {
+      "root_id": 1355,
+      "root_word": "س م م"
+    },
+    {
+      "root_id": 1356,
+      "root_word": "ن ث ر"
+    },
+    {
+      "root_id": 1357,
+      "root_word": "ف و ت"
+    },
+    {
+      "root_id": 1358,
+      "root_word": "ا ب د"
+    },
+    {
+      "root_id": 1359,
+      "root_word": "ع ط و"
+    },
+    {
+      "root_id": 1360,
+      "root_word": "ح ف ظ"
+    },
+    {
+      "root_id": 1361,
+      "root_word": "ا ث ث"
+    },
+    {
+      "root_id": 1362,
+      "root_word": "ث ب ط"
+    },
+    {
+      "root_id": 1363,
+      "root_word": "و ج د"
+    },
+    {
+      "root_id": 1364,
+      "root_word": "ر ك ز"
+    },
+    {
+      "root_id": 1365,
+      "root_word": "ع م ر"
+    },
+    {
+      "root_id": 1366,
+      "root_word": "ه ا ه"
+    },
+    {
+      "root_id": 1367,
+      "root_word": "ح ب ط"
+    },
+    {
+      "root_id": 1368,
+      "root_word": "خ ف ف"
+    },
+    {
+      "root_id": 1369,
+      "root_word": "ح و ي"
+    },
+    {
+      "root_id": 1370,
+      "root_word": "ن ج و"
+    },
+    {
+      "root_id": 1371,
+      "root_word": "ق ل ي"
+    },
+    {
+      "root_id": 1372,
+      "root_word": "ك م م"
+    },
+    {
+      "root_id": 1373,
+      "root_word": "ش ت و"
+    },
+    {
+      "root_id": 1374,
+      "root_word": "ج د د"
+    },
+    {
+      "root_id": 1375,
+      "root_word": "م و ر"
+    },
+    {
+      "root_id": 1376,
+      "root_word": "ن س ر"
+    },
+    {
+      "root_id": 1377,
+      "root_word": "ر ح م"
+    },
+    {
+      "root_id": 1378,
+      "root_word": "ج ب ر"
+    },
+    {
+      "root_id": 1379,
+      "root_word": "ص ي ر"
+    },
+    {
+      "root_id": 1380,
+      "root_word": "ف و ر"
+    },
+    {
+      "root_id": 1381,
+      "root_word": "ص و ف"
+    },
+    {
+      "root_id": 1382,
+      "root_word": "ذ ك ر"
+    },
+    {
+      "root_id": 1383,
+      "root_word": "ج و د"
+    },
+    {
+      "root_id": 1384,
+      "root_word": "ا و ب"
+    },
+    {
+      "root_id": 1385,
+      "root_word": "ش ك ر"
+    },
+    {
+      "root_id": 1386,
+      "root_word": "س ق ي"
+    },
+    {
+      "root_id": 1387,
+      "root_word": "م ر و"
+    },
+    {
+      "root_id": 1388,
+      "root_word": "ك م ا"
+    },
+    {
+      "root_id": 1389,
+      "root_word": "ا ل م ر"
+    },
+    {
+      "root_id": 1390,
+      "root_word": "ر م د"
+    },
+    {
+      "root_id": 1391,
+      "root_word": "ل ف ت"
+    },
+    {
+      "root_id": 1392,
+      "root_word": "ص ل ي"
+    },
+    {
+      "root_id": 1393,
+      "root_word": "ض ع ف"
+    },
+    {
+      "root_id": 1394,
+      "root_word": "خ ب ط"
+    },
+    {
+      "root_id": 1395,
+      "root_word": "ر ف ر ف"
+    },
+    {
+      "root_id": 1396,
+      "root_word": "خ ي ل"
+    },
+    {
+      "root_id": 1397,
+      "root_word": "م ث ل"
+    },
+    {
+      "root_id": 1398,
+      "root_word": "ب د و"
+    },
+    {
+      "root_id": 1399,
+      "root_word": "ن ق ر"
+    },
+    {
+      "root_id": 1400,
+      "root_word": "ا ب ر"
+    },
+    {
+      "root_id": 1401,
+      "root_word": "ص ع د"
+    },
+    {
+      "root_id": 1402,
+      "root_word": "غ و ط"
+    },
+    {
+      "root_id": 1403,
+      "root_word": "ر ت ق"
+    },
+    {
+      "root_id": 1404,
+      "root_word": "ع و ل"
+    },
+    {
+      "root_id": 1405,
+      "root_word": "ش ط ر"
+    },
+    {
+      "root_id": 1406,
+      "root_word": "ع م ل"
+    },
+    {
+      "root_id": 1407,
+      "root_word": "ق ت ر"
+    },
+    {
+      "root_id": 1408,
+      "root_word": "ب م"
+    },
+    {
+      "root_id": 1409,
+      "root_word": "ه ز ل"
+    },
+    {
+      "root_id": 1410,
+      "root_word": "ج م د"
+    },
+    {
+      "root_id": 1411,
+      "root_word": "ش و ي"
+    },
+    {
+      "root_id": 1412,
+      "root_word": "م ط ر"
+    },
+    {
+      "root_id": 1413,
+      "root_word": "ك س و"
+    },
+    {
+      "root_id": 1414,
+      "root_word": "ر ه ق"
+    },
+    {
+      "root_id": 1415,
+      "root_word": "ف ص ل"
+    },
+    {
+      "root_id": 1416,
+      "root_word": "ش ح ح"
+    },
+    {
+      "root_id": 1417,
+      "root_word": "م د ن"
+    },
+    {
+      "root_id": 1418,
+      "root_word": "س ج ر"
+    },
+    {
+      "root_id": 1419,
+      "root_word": "ح ص ي"
+    },
+    {
+      "root_id": 1420,
+      "root_word": "س ب ق"
+    },
+    {
+      "root_id": 1421,
+      "root_word": "ق س ط"
+    },
+    {
+      "root_id": 1422,
+      "root_word": "ا ل ل"
+    },
+    {
+      "root_id": 1423,
+      "root_word": "ب ط ل"
+    },
+    {
+      "root_id": 1424,
+      "root_word": "ب ر ح"
+    },
+    {
+      "root_id": 1425,
+      "root_word": "ن د م"
+    },
+    {
+      "root_id": 1426,
+      "root_word": "ر م ح"
+    },
+    {
+      "root_id": 1427,
+      "root_word": "ع س ي"
+    },
+    {
+      "root_id": 1428,
+      "root_word": "ح م ر"
+    },
+    {
+      "root_id": 1429,
+      "root_word": "ع ز ل"
+    },
+    {
+      "root_id": 1430,
+      "root_word": "ع ر و"
+    },
+    {
+      "root_id": 1431,
+      "root_word": "ذ ر ا"
+    },
+    {
+      "root_id": 1432,
+      "root_word": "ف س ح"
+    },
+    {
+      "root_id": 1433,
+      "root_word": "ف ج ر"
+    },
+    {
+      "root_id": 1434,
+      "root_word": "و ع ظ"
+    },
+    {
+      "root_id": 1435,
+      "root_word": "م ل ق"
+    },
+    {
+      "root_id": 1436,
+      "root_word": "ح ر ف"
+    },
+    {
+      "root_id": 1437,
+      "root_word": "ح ص ب"
+    },
+    {
+      "root_id": 1438,
+      "root_word": "ه ي ه ا"
+    },
+    {
+      "root_id": 1439,
+      "root_word": "ه ج د"
+    },
+    {
+      "root_id": 1440,
+      "root_word": "ر ك ع"
+    },
+    {
+      "root_id": 1441,
+      "root_word": "ز ر ق"
+    },
+    {
+      "root_id": 1442,
+      "root_word": "ح ن ن"
+    },
+    {
+      "root_id": 1443,
+      "root_word": "ل ق م"
+    },
+    {
+      "root_id": 1444,
+      "root_word": "ط ح ا"
+    },
+    {
+      "root_id": 1445,
+      "root_word": "خ ط ف"
+    },
+    {
+      "root_id": 1446,
+      "root_word": "ح ر ض"
+    },
+    {
+      "root_id": 1447,
+      "root_word": "س ج ن"
+    },
+    {
+      "root_id": 1448,
+      "root_word": "س م ر"
+    },
+    {
+      "root_id": 1449,
+      "root_word": "ف ت ق"
+    },
+    {
+      "root_id": 1450,
+      "root_word": "ف ن د"
+    },
+    {
+      "root_id": 1451,
+      "root_word": "ب س ق"
+    },
+    {
+      "root_id": 1452,
+      "root_word": "س ر ب ل"
+    },
+    {
+      "root_id": 1453,
+      "root_word": "ي م ن"
+    },
+    {
+      "root_id": 1454,
+      "root_word": "ا ي ن"
+    },
+    {
+      "root_id": 1455,
+      "root_word": "س ب ط"
+    },
+    {
+      "root_id": 1456,
+      "root_word": "خ ض ر"
+    },
+    {
+      "root_id": 1457,
+      "root_word": "س م ع"
+    },
+    {
+      "root_id": 1458,
+      "root_word": "د ل ل"
+    },
+    {
+      "root_id": 1459,
+      "root_word": "ع ن ب"
+    },
+    {
+      "root_id": 1460,
+      "root_word": "و ث ن"
+    },
+    {
+      "root_id": 1461,
+      "root_word": "ح ز ب"
+    },
+    {
+      "root_id": 1462,
+      "root_word": "د م غ"
+    },
+    {
+      "root_id": 1463,
+      "root_word": "ع م ق"
+    },
+    {
+      "root_id": 1464,
+      "root_word": "ع ض ه"
+    },
+    {
+      "root_id": 1465,
+      "root_word": "ي ق ن"
+    },
+    {
+      "root_id": 1466,
+      "root_word": "ح ن ج ر"
+    },
+    {
+      "root_id": 1467,
+      "root_word": "ر د ف"
+    },
+    {
+      "root_id": 1468,
+      "root_word": "خ و ل"
+    },
+    {
+      "root_id": 1469,
+      "root_word": "ه ي"
+    },
+    {
+      "root_id": 1470,
+      "root_word": "ع ك ف"
+    },
+    {
+      "root_id": 1471,
+      "root_word": "ع ت د"
+    },
+    {
+      "root_id": 1472,
+      "root_word": "ن ف خ"
+    },
+    {
+      "root_id": 1473,
+      "root_word": "ا س م"
+    },
+    {
+      "root_id": 1474,
+      "root_word": "ا ي م"
+    },
+    {
+      "root_id": 1475,
+      "root_word": "ذ ب ب"
+    },
+    {
+      "root_id": 1476,
+      "root_word": "ر و غ"
+    },
+    {
+      "root_id": 1477,
+      "root_word": "ر ق ق"
+    },
+    {
+      "root_id": 1478,
+      "root_word": "ش م خ"
+    },
+    {
+      "root_id": 1479,
+      "root_word": "ب د ل"
+    },
+    {
+      "root_id": 1480,
+      "root_word": "ر ج ز"
+    },
+    {
+      "root_id": 1481,
+      "root_word": "ص خ خ"
+    },
+    {
+      "root_id": 1482,
+      "root_word": "ف ك ك"
+    },
+    {
+      "root_id": 1483,
+      "root_word": "ح د ق"
+    },
+    {
+      "root_id": 1484,
+      "root_word": "و ت ن"
+    },
+    {
+      "root_id": 1485,
+      "root_word": "ل م ا"
+    },
+    {
+      "root_id": 1486,
+      "root_word": "و ز ن"
+    },
+    {
+      "root_id": 1487,
+      "root_word": "خ ر ب"
+    },
+    {
+      "root_id": 1488,
+      "root_word": "ق د ح"
+    },
+    {
+      "root_id": 1489,
+      "root_word": "ق ف و"
+    },
+    {
+      "root_id": 1490,
+      "root_word": "ب ا ر"
+    },
+    {
+      "root_id": 1491,
+      "root_word": "ق ر د"
+    },
+    {
+      "root_id": 1492,
+      "root_word": "ت و ر ا"
+    },
+    {
+      "root_id": 1493,
+      "root_word": "ش ي ا"
+    },
+    {
+      "root_id": 1494,
+      "root_word": "ح ل ق م"
+    },
+    {
+      "root_id": 1495,
+      "root_word": "ن و ر"
+    },
+    {
+      "root_id": 1496,
+      "root_word": "ح د ث"
+    },
+    {
+      "root_id": 1497,
+      "root_word": "ط م س"
+    },
+    {
+      "root_id": 1498,
+      "root_word": "ل ح ق"
+    },
+    {
+      "root_id": 1499,
+      "root_word": "ع ب د"
+    },
+    {
+      "root_id": 1500,
+      "root_word": "ص و م"
+    },
+    {
+      "root_id": 1501,
+      "root_word": "ل س ن"
+    },
+    {
+      "root_id": 1502,
+      "root_word": "م س س"
+    },
+    {
+      "root_id": 1503,
+      "root_word": "ع س ل"
+    },
+    {
+      "root_id": 1504,
+      "root_word": "ه و"
+    },
+    {
+      "root_id": 1505,
+      "root_word": "ك ي"
+    },
+    {
+      "root_id": 1506,
+      "root_word": "غ س ل"
+    },
+    {
+      "root_id": 1507,
+      "root_word": "ث ب ي"
+    },
+    {
+      "root_id": 1508,
+      "root_word": "غ ف ل"
+    },
+    {
+      "root_id": 1509,
+      "root_word": "خ ل ص"
+    },
+    {
+      "root_id": 1510,
+      "root_word": "ب ر ز خ"
+    },
+    {
+      "root_id": 1511,
+      "root_word": "ف ق ع"
+    },
+    {
+      "root_id": 1512,
+      "root_word": "ك ر س"
+    },
+    {
+      "root_id": 1513,
+      "root_word": "ر م ي"
+    },
+    {
+      "root_id": 1514,
+      "root_word": "ع ص ب"
+    },
+    {
+      "root_id": 1515,
+      "root_word": "ص ح ب"
+    },
+    {
+      "root_id": 1516,
+      "root_word": "ا ل ل ذ"
+    },
+    {
+      "root_id": 1517,
+      "root_word": "ب ي ع"
+    },
+    {
+      "root_id": 1518,
+      "root_word": "ر ب ح"
+    },
+    {
+      "root_id": 1519,
+      "root_word": "ر ي ب"
+    },
+    {
+      "root_id": 1520,
+      "root_word": "د ك ك"
+    },
+    {
+      "root_id": 1521,
+      "root_word": "خ س ف"
+    },
+    {
+      "root_id": 1522,
+      "root_word": "ب و ب"
+    },
+    {
+      "root_id": 1523,
+      "root_word": "ب ر ه ن"
+    },
+    {
+      "root_id": 1524,
+      "root_word": "ص ب و"
+    },
+    {
+      "root_id": 1525,
+      "root_word": "ع ر ب"
+    },
+    {
+      "root_id": 1526,
+      "root_word": "خ ش ي"
+    },
+    {
+      "root_id": 1527,
+      "root_word": "س ك ت"
+    },
+    {
+      "root_id": 1528,
+      "root_word": "ي د ي"
+    },
+    {
+      "root_id": 1529,
+      "root_word": "ن ظ ر"
+    },
+    {
+      "root_id": 1530,
+      "root_word": "ن و ي"
+    },
+    {
+      "root_id": 1531,
+      "root_word": "ش ف ه"
+    },
+    {
+      "root_id": 1532,
+      "root_word": "ص ر ط"
+    },
+    {
+      "root_id": 1533,
+      "root_word": "ل م ز"
+    },
+    {
+      "root_id": 1534,
+      "root_word": "ط ر ف"
+    },
+    {
+      "root_id": 1535,
+      "root_word": "و ب ر"
+    },
+    {
+      "root_id": 1536,
+      "root_word": "ج ذ و"
+    },
+    {
+      "root_id": 1537,
+      "root_word": "ب ك ر"
+    },
+    {
+      "root_id": 1538,
+      "root_word": "س ت ر"
+    },
+    {
+      "root_id": 1539,
+      "root_word": "م ل ل"
+    },
+    {
+      "root_id": 1540,
+      "root_word": "ث ر ب"
+    },
+    {
+      "root_id": 1541,
+      "root_word": "ن ع س"
+    },
+    {
+      "root_id": 1542,
+      "root_word": "م ه د"
+    },
+    {
+      "root_id": 1543,
+      "root_word": "ف ا و"
+    },
+    {
+      "root_id": 1544,
+      "root_word": "م ر ح"
+    },
+    {
+      "root_id": 1545,
+      "root_word": "خ س ا"
+    },
+    {
+      "root_id": 1546,
+      "root_word": "ش ر ك"
+    },
+    {
+      "root_id": 1547,
+      "root_word": "ن ز ف"
+    },
+    {
+      "root_id": 1548,
+      "root_word": "ج س د"
+    },
+    {
+      "root_id": 1549,
+      "root_word": "ع ت ل"
+    },
+    {
+      "root_id": 1550,
+      "root_word": "ن و ا"
+    },
+    {
+      "root_id": 1551,
+      "root_word": "غ ط ي"
+    },
+    {
+      "root_id": 1552,
+      "root_word": "ا ر ب"
+    },
+    {
+      "root_id": 1553,
+      "root_word": "ز ر ي"
+    },
+    {
+      "root_id": 1554,
+      "root_word": "ع ث ر"
+    },
+    {
+      "root_id": 1555,
+      "root_word": "ق ص و"
+    },
+    {
+      "root_id": 1556,
+      "root_word": "ه ز ا"
+    },
+    {
+      "root_id": 1557,
+      "root_word": "د ل و"
+    },
+    {
+      "root_id": 1558,
+      "root_word": "ج ي ب"
+    },
+    {
+      "root_id": 1559,
+      "root_word": "ت ب ب"
+    },
+    {
+      "root_id": 1560,
+      "root_word": "م ك ث"
+    },
+    {
+      "root_id": 1561,
+      "root_word": "و ق ب"
+    },
+    {
+      "root_id": 1562,
+      "root_word": "ب ط ن"
+    },
+    {
+      "root_id": 1563,
+      "root_word": "ا ف ق"
+    },
+    {
+      "root_id": 1564,
+      "root_word": "ح ز ن"
+    },
+    {
+      "root_id": 1565,
+      "root_word": "ر ت ع"
+    },
+    {
+      "root_id": 1566,
+      "root_word": "ن ذ ر"
+    },
+    {
+      "root_id": 1567,
+      "root_word": "ع ص م"
+    },
+    {
+      "root_id": 1568,
+      "root_word": "ج و ر"
+    },
+    {
+      "root_id": 1569,
+      "root_word": "ه ن ك"
+    },
+    {
+      "root_id": 1570,
+      "root_word": "ه ي ل"
+    },
+    {
+      "root_id": 1571,
+      "root_word": "ظ ه ر"
+    },
+    {
+      "root_id": 1572,
+      "root_word": "س م ك"
+    },
+    {
+      "root_id": 1573,
+      "root_word": "ق ع ر"
+    },
+    {
+      "root_id": 1574,
+      "root_word": "م ش ج"
+    },
+    {
+      "root_id": 1575,
+      "root_word": "ز ب ر"
+    },
+    {
+      "root_id": 1576,
+      "root_word": "ج ح د"
+    },
+    {
+      "root_id": 1577,
+      "root_word": "خ ب ا"
+    },
+    {
+      "root_id": 1578,
+      "root_word": "ج و س"
+    },
+    {
+      "root_id": 1579,
+      "root_word": "ف س ق"
+    },
+    {
+      "root_id": 1580,
+      "root_word": "غ ل ل"
+    },
+    {
+      "root_id": 1581,
+      "root_word": "ص ي ف"
+    },
+    {
+      "root_id": 1582,
+      "root_word": "د ه ن"
+    },
+    {
+      "root_id": 1583,
+      "root_word": "ح ظ ظ"
+    },
+    {
+      "root_id": 1584,
+      "root_word": "ق ر ن"
+    },
+    {
+      "root_id": 1585,
+      "root_word": "ا ه ل"
+    },
+    {
+      "root_id": 1586,
+      "root_word": "و ر د"
+    },
+    {
+      "root_id": 1587,
+      "root_word": "ك و ي"
+    },
+    {
+      "root_id": 1588,
+      "root_word": "ف ع ل"
+    },
+    {
+      "root_id": 1589,
+      "root_word": "خ ل د"
+    },
+    {
+      "root_id": 1590,
+      "root_word": "س ط ر"
+    },
+    {
+      "root_id": 1591,
+      "root_word": "ق ص ف"
+    },
+    {
+      "root_id": 1592,
+      "root_word": "ش ك س"
+    },
+    {
+      "root_id": 1593,
+      "root_word": "س ه و"
+    },
+    {
+      "root_id": 1594,
+      "root_word": "ث ي ب"
+    },
+    {
+      "root_id": 1595,
+      "root_word": "ح ر ك"
+    },
+    {
+      "root_id": 1596,
+      "root_word": "ل ب ب"
+    },
+    {
+      "root_id": 1597,
+      "root_word": "ب ض ع"
+    },
+    {
+      "root_id": 1598,
+      "root_word": "ر ب ع"
+    },
+    {
+      "root_id": 1599,
+      "root_word": "ط س م"
+    },
+    {
+      "root_id": 1600,
+      "root_word": "ح ي ص"
+    },
+    {
+      "root_id": 1601,
+      "root_word": "ش د د"
+    },
+    {
+      "root_id": 1602,
+      "root_word": "ج م ع"
+    },
+    {
+      "root_id": 1603,
+      "root_word": "ب ح ر"
+    },
+    {
+      "root_id": 1604,
+      "root_word": "ن ف ي"
+    },
+    {
+      "root_id": 1605,
+      "root_word": "ح ن ف"
+    },
+    {
+      "root_id": 1606,
+      "root_word": "ك ر ر"
+    },
+    {
+      "root_id": 1607,
+      "root_word": "ع ر ف"
+    },
+    {
+      "root_id": 1608,
+      "root_word": "ف س ر"
+    },
+    {
+      "root_id": 1609,
+      "root_word": "ز ب د"
+    },
+    {
+      "root_id": 1610,
+      "root_word": "ك ل ب"
+    },
+    {
+      "root_id": 1611,
+      "root_word": "ح م م"
+    },
+    {
+      "root_id": 1612,
+      "root_word": "ن و ص"
+    },
+    {
+      "root_id": 1613,
+      "root_word": "س ك ر"
+    },
+    {
+      "root_id": 1614,
+      "root_word": "ر ك س"
+    },
+    {
+      "root_id": 1615,
+      "root_word": "ز ن ي"
+    },
+    {
+      "root_id": 1616,
+      "root_word": "د ح و"
+    },
+    {
+      "root_id": 1617,
+      "root_word": "ع ن"
+    },
+    {
+      "root_id": 1618,
+      "root_word": "ل ط ف"
+    },
+    {
+      "root_id": 1619,
+      "root_word": "ع ط ل"
+    },
+    {
+      "root_id": 1620,
+      "root_word": "ن ا ي"
+    },
+    {
+      "root_id": 1621,
+      "root_word": "ص ر ح"
+    },
+    {
+      "root_id": 1622,
+      "root_word": "ه ج ع"
+    },
+    {
+      "root_id": 1623,
+      "root_word": "م م"
+    },
+    {
+      "root_id": 1624,
+      "root_word": "خ ش ب"
+    },
+    {
+      "root_id": 1625,
+      "root_word": "ح ر ث"
+    },
+    {
+      "root_id": 1626,
+      "root_word": "ن ض ج"
+    },
+    {
+      "root_id": 1627,
+      "root_word": "ح ل ي"
+    },
+    {
+      "root_id": 1628,
+      "root_word": "و ق ف"
+    },
+    {
+      "root_id": 1629,
+      "root_word": "و ح د"
+    },
+    {
+      "root_id": 1630,
+      "root_word": "ح ص ح ص"
+    },
+    {
+      "root_id": 1631,
+      "root_word": "ز ك ر"
+    },
+    {
+      "root_id": 1632,
+      "root_word": "ا م ر"
+    },
+    {
+      "root_id": 1633,
+      "root_word": "ل د د"
+    },
+    {
+      "root_id": 1634,
+      "root_word": "م ت ن"
+    },
+    {
+      "root_id": 1635,
+      "root_word": "س ب ح"
+    },
+    {
+      "root_id": 1636,
+      "root_word": "ج ث ي"
+    },
+    {
+      "root_id": 1637,
+      "root_word": "ا س ن"
+    },
+    {
+      "root_id": 1638,
+      "root_word": "ل م م ا"
+    },
+    {
+      "root_id": 1639,
+      "root_word": "ج ر د"
+    },
+    {
+      "root_id": 1640,
+      "root_word": "ط ر ي"
+    },
+    {
+      "root_id": 1641,
+      "root_word": "م ا ذ ا"
+    },
+    {
+      "root_id": 1642,
+      "root_word": "س ب ل"
+    },
+    {
+      "root_id": 1643,
+      "root_word": "ظ ف ر"
+    },
+    {
+      "root_id": 1644,
+      "root_word": "ل ا"
+    },
+    {
+      "root_id": 1645,
+      "root_word": "ص ب ع"
+    },
+    {
+      "root_id": 1646,
+      "root_word": "ص ل ص ل"
+    },
+    {
+      "root_id": 1647,
+      "root_word": "ع ف و"
+    },
+    {
+      "root_id": 1648,
+      "root_word": "ن س خ"
+    },
+    {
+      "root_id": 1649,
+      "root_word": "ر ا ف"
+    },
+    {
+      "root_id": 1650,
+      "root_word": "ف ي"
+    },
+    {
+      "root_id": 1651,
+      "root_word": "ه ي م"
+    },
+    {
+      "root_id": 1652,
+      "root_word": "م ن   ا"
+    },
+    {
+      "root_id": 1653,
+      "root_word": "ب ج س"
+    },
+    {
+      "root_id": 1654,
+      "root_word": "ح ق ب"
+    },
+    {
+      "root_id": 1655,
+      "root_word": "ر د د"
+    },
+    {
+      "root_id": 1656,
+      "root_word": "خ ن ز ر"
+    },
+    {
+      "root_id": 1657,
+      "root_word": "ن ب ت"
+    },
+    {
+      "root_id": 1658,
+      "root_word": "ف ر ج"
+    },
+    {
+      "root_id": 1659,
+      "root_word": "ب د ن"
+    },
+    {
+      "root_id": 1660,
+      "root_word": "ق م ط ر"
+    },
+    {
+      "root_id": 1661,
+      "root_word": "ح ط ب"
+    },
+    {
+      "root_id": 1662,
+      "root_word": "ك ا ي"
+    },
+    {
+      "root_id": 1663,
+      "root_word": "ش ج ر"
+    },
+    {
+      "root_id": 1664,
+      "root_word": "ق و ت"
+    },
+    {
+      "root_id": 1665,
+      "root_word": "ص غ ي"
+    },
+    {
+      "root_id": 1666,
+      "root_word": "ع ذ ب"
+    },
+    {
+      "root_id": 1667,
+      "root_word": "س ل س ل"
+    },
+    {
+      "root_id": 1668,
+      "root_word": "ه م ا"
+    },
+    {
+      "root_id": 1669,
+      "root_word": "س و ل"
+    },
+    {
+      "root_id": 1670,
+      "root_word": "د ن ر"
+    },
+    {
+      "root_id": 1671,
+      "root_word": "ب ر م"
+    },
+    {
+      "root_id": 1672,
+      "root_word": "س ف ع"
+    },
+    {
+      "root_id": 1673,
+      "root_word": "ط و ع"
+    },
+    {
+      "root_id": 1674,
+      "root_word": "ف ط ر"
+    },
+    {
+      "root_id": 1675,
+      "root_word": "س و ي"
+    },
+    {
+      "root_id": 1676,
+      "root_word": "ا ن س"
+    },
+    {
+      "root_id": 1677,
+      "root_word": "ر ص ص"
+    },
+    {
+      "root_id": 1678,
+      "root_word": "م ك و"
+    },
+    {
+      "root_id": 1679,
+      "root_word": "ا خ ذ"
+    },
+    {
+      "root_id": 1680,
+      "root_word": "د خ ل"
+    },
+    {
+      "root_id": 1681,
+      "root_word": "ن ب ذ"
+    },
+    {
+      "root_id": 1682,
+      "root_word": "م س ح"
+    },
+    {
+      "root_id": 1683,
+      "root_word": "ث ل ث"
+    },
+    {
+      "root_id": 1684,
+      "root_word": "ا ش ر"
+    },
+    {
+      "root_id": 1685,
+      "root_word": "ن م ر ق"
+    },
+    {
+      "root_id": 1686,
+      "root_word": "ش ط ن"
+    },
+    {
+      "root_id": 1687,
+      "root_word": "و ز ر"
+    },
+    {
+      "root_id": 1688,
+      "root_word": "ر د ي"
+    },
+    {
+      "root_id": 1689,
+      "root_word": "ل ح ن"
+    },
+    {
+      "root_id": 1690,
+      "root_word": "و س ط"
+    },
+    {
+      "root_id": 1691,
+      "root_word": "ط ل ل"
+    },
+    {
+      "root_id": 1692,
+      "root_word": "ك ب ب"
+    },
+    {
+      "root_id": 1693,
+      "root_word": "ج ب ت"
+    },
+    {
+      "root_id": 1694,
+      "root_word": "ن ي ل"
+    },
+    {
+      "root_id": 1695,
+      "root_word": "خ و ف"
+    },
+    {
+      "root_id": 1696,
+      "root_word": "ه ا ت"
+    },
+    {
+      "root_id": 1697,
+      "root_word": "ص د د"
+    },
+    {
+      "root_id": 1698,
+      "root_word": "ز ف ر"
+    },
+    {
+      "root_id": 1699,
+      "root_word": "د و ر"
+    },
+    {
+      "root_id": 1700,
+      "root_word": "س و د"
+    },
+    {
+      "root_id": 1701,
+      "root_word": "ف و ج"
+    },
+    {
+      "root_id": 1702,
+      "root_word": "ط ي ن"
+    },
+    {
+      "root_id": 1703,
+      "root_word": "ب ط ش"
+    },
+    {
+      "root_id": 1704,
+      "root_word": "ل و ح"
+    },
+    {
+      "root_id": 1705,
+      "root_word": "ق و م"
+    },
+    {
+      "root_id": 1706,
+      "root_word": "و ث ق"
+    },
+    {
+      "root_id": 1707,
+      "root_word": "و ا د"
+    },
+    {
+      "root_id": 1708,
+      "root_word": "ع ز م"
+    },
+    {
+      "root_id": 1709,
+      "root_word": "ع و د"
+    },
+    {
+      "root_id": 1710,
+      "root_word": "س ر ح"
+    },
+    {
+      "root_id": 1711,
+      "root_word": "غ ش ي"
+    },
+    {
+      "root_id": 1712,
+      "root_word": "ه ل ك"
+    },
+    {
+      "root_id": 1713,
+      "root_word": "ا س ي"
+    },
+    {
+      "root_id": 1714,
+      "root_word": "ص غ ر"
+    },
+    {
+      "root_id": 1715,
+      "root_word": "ع ب ث"
+    },
+    {
+      "root_id": 1716,
+      "root_word": "ن م م"
+    },
+    {
+      "root_id": 1717,
+      "root_word": "ق ر ع"
+    },
+    {
+      "root_id": 1718,
+      "root_word": "ه ر ب"
+    },
+    {
+      "root_id": 1719,
+      "root_word": "ف ز ز"
+    },
+    {
+      "root_id": 1720,
+      "root_word": "ل ز ب"
+    },
+    {
+      "root_id": 1721,
+      "root_word": "ه م م"
+    },
+    {
+      "root_id": 1722,
+      "root_word": "و ق د"
+    },
+    {
+      "root_id": 1723,
+      "root_word": "ر ش د"
+    },
+    {
+      "root_id": 1724,
+      "root_word": "ك ب د"
+    },
+    {
+      "root_id": 1725,
+      "root_word": "ض م م"
+    },
+    {
+      "root_id": 1726,
+      "root_word": "ا خ و"
+    },
+    {
+      "root_id": 1727,
+      "root_word": "ح و ب"
+    },
+    {
+      "root_id": 1728,
+      "root_word": "م ح ن"
+    },
+    {
+      "root_id": 1729,
+      "root_word": "ح ص ر"
+    },
+    {
+      "root_id": 1730,
+      "root_word": "ا م"
+    },
+    {
+      "root_id": 1731,
+      "root_word": "ل ك ن"
+    },
+    {
+      "root_id": 1732,
+      "root_word": "م ت ع"
+    },
+    {
+      "root_id": 1733,
+      "root_word": "ك ن ز"
+    },
+    {
+      "root_id": 1734,
+      "root_word": "ن ف د"
+    },
+    {
+      "root_id": 1735,
+      "root_word": "ب ر ر"
+    },
+    {
+      "root_id": 1736,
+      "root_word": "ف ر ح"
+    },
+    {
+      "root_id": 1737,
+      "root_word": "س ق ط"
+    },
+    {
+      "root_id": 1738,
+      "root_word": "ع ز ز"
+    },
+    {
+      "root_id": 1739,
+      "root_word": "ي ج ج"
+    },
+    {
+      "root_id": 1740,
+      "root_word": "ح ف ف"
+    },
+    {
+      "root_id": 1741,
+      "root_word": "ه ل ل"
+    },
+    {
+      "root_id": 1742,
+      "root_word": "ر ج و"
+    },
+    {
+      "root_id": 1743,
+      "root_word": "ك ا ن ن م ا"
+    },
+    {
+      "root_id": 1744,
+      "root_word": "ق ت ل"
+    },
+    {
+      "root_id": 1745,
+      "root_word": "ر ه ب"
+    },
+    {
+      "root_id": 1746,
+      "root_word": "ل ز م"
+    },
+    {
+      "root_id": 1747,
+      "root_word": "ش ر ب"
+    },
+    {
+      "root_id": 1748,
+      "root_word": "ج و ز"
+    },
+    {
+      "root_id": 1749,
+      "root_word": "غ ر و"
+    },
+    {
+      "root_id": 1750,
+      "root_word": "غ ب ر"
+    },
+    {
+      "root_id": 1751,
+      "root_word": "ل ح ف"
+    },
+    {
+      "root_id": 1752,
+      "root_word": "ي ث ر"
+    },
+    {
+      "root_id": 1753,
+      "root_word": "ع د ن"
+    },
+    {
+      "root_id": 1754,
+      "root_word": "ف ج ج"
+    },
+    {
+      "root_id": 1755,
+      "root_word": "ا و ل ا"
+    },
+    {
+      "root_id": 1756,
+      "root_word": "س و ر"
+    },
+    {
+      "root_id": 1757,
+      "root_word": "ج ل ل"
+    },
+    {
+      "root_id": 1758,
+      "root_word": "د خ ر"
+    },
+    {
+      "root_id": 1759,
+      "root_word": "ق ث ا"
+    },
+    {
+      "root_id": 1760,
+      "root_word": "ع س ق"
+    },
+    {
+      "root_id": 1761,
+      "root_word": "ح س ر"
+    },
+    {
+      "root_id": 1762,
+      "root_word": "و ل د"
+    },
+    {
+      "root_id": 1763,
+      "root_word": "ع م د"
+    },
+    {
+      "root_id": 1764,
+      "root_word": "ز ي ن"
+    },
+    {
+      "root_id": 1765,
+      "root_word": "ب ت ك"
+    },
+    {
+      "root_id": 1766,
+      "root_word": "د ر ج"
+    },
+    {
+      "root_id": 1767,
+      "root_word": "ق ر ض"
+    },
+    {
+      "root_id": 1768,
+      "root_word": "ح ظ ر"
+    },
+    {
+      "root_id": 1769,
+      "root_word": "ز و د"
+    },
+    {
+      "root_id": 1770,
+      "root_word": "ذ ر ع"
+    },
+    {
+      "root_id": 1771,
+      "root_word": "ا ن ف"
+    },
+    {
+      "root_id": 1772,
+      "root_word": "ج ن ب"
+    },
+    {
+      "root_id": 1773,
+      "root_word": "خ ل ف"
+    },
+    {
+      "root_id": 1774,
+      "root_word": "ق ر ا"
+    },
+    {
+      "root_id": 1775,
+      "root_word": "ج م ح"
+    },
+    {
+      "root_id": 1776,
+      "root_word": "س ط و"
+    },
+    {
+      "root_id": 1777,
+      "root_word": "ط ر ق"
+    },
+    {
+      "root_id": 1778,
+      "root_word": "ح س س"
+    },
+    {
+      "root_id": 1779,
+      "root_word": "ل م س"
+    },
+    {
+      "root_id": 1780,
+      "root_word": "ص و ت"
+    },
+    {
+      "root_id": 1781,
+      "root_word": "س ف ح"
+    },
+    {
+      "root_id": 1782,
+      "root_word": "خ ل ط"
+    },
+    {
+      "root_id": 1783,
+      "root_word": "ه د ه د"
+    },
+    {
+      "root_id": 1784,
+      "root_word": "ث و ب"
+    },
+    {
+      "root_id": 1785,
+      "root_word": "ص ب ب"
+    },
+    {
+      "root_id": 1786,
+      "root_word": "س ح ل"
+    },
+    {
+      "root_id": 1787,
+      "root_word": "ق س و"
+    },
+    {
+      "root_id": 1788,
+      "root_word": "ص ف و"
+    },
+    {
+      "root_id": 1789,
+      "root_word": "ك ه ل"
+    },
+    {
+      "root_id": 1790,
+      "root_word": "ن ك د"
+    },
+    {
+      "root_id": 1791,
+      "root_word": "ق ر ر"
+    },
+    {
+      "root_id": 1792,
+      "root_word": "ح ض ض"
+    },
+    {
+      "root_id": 1793,
+      "root_word": "م ل ح"
+    },
+    {
+      "root_id": 1794,
+      "root_word": "ح ر ج"
+    },
+    {
+      "root_id": 1795,
+      "root_word": "ك ب ت"
+    },
+    {
+      "root_id": 1796,
+      "root_word": "ي ق ت"
+    },
+    {
+      "root_id": 1797,
+      "root_word": "س ق ر"
+    },
+    {
+      "root_id": 1798,
+      "root_word": "ق ر ي"
+    }
+  ]
+}
