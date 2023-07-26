@@ -135,7 +135,7 @@
         </table>
 
         <!-- Display pagination links with the "default_full" template -->
-        <container class="flex flex-gap-xxpx align-items-center w-auto"><?= $pager->links('group1', 'default_full'); ?></container>
+        <container class="flex flex-end relative justify-end flex-gap-3 w-max-lg"><?= $pager->links('group1', 'custom1'); ?></container>
     </div>
 </body>
 
