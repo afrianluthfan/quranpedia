@@ -29,7 +29,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'dump_db_quran',
+        'database' => 'quranpedia',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,

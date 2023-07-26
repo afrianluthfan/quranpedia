@@ -28,7 +28,7 @@ $routes->set404Override();
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'ShahihMuslimController::index');
+$routes->get('/', 'Default_Controller::index');
 $routes->get('page/detailv', 'Detailv::getData');
 $routes->get('page/(:num)', 'Detailv::getRootData/$1');
 $routes->get('page/shahih_bukhari_view', 'Shahih_Bukhari::view'); // Add this line
