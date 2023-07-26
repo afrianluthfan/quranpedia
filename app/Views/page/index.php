@@ -155,7 +155,9 @@
     </div>
 
     <button class="w-[22rem] h-[5rem] border border-black rounded-full mt-[2rem]" onclick="redirectToTarget()">
-        tes
+        <div class="flex items-center justify-center h-full w-full grid-cell">
+            Tampilan Seluruh Kitab
+        </div>
     </button>
 
     <script>
