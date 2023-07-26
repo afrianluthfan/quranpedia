@@ -86,9 +86,10 @@
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
       <div class="container">
-        <a class="navbar-brand">
-          QURANPEDIA </a
-        ><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="<?= base_url() ?>">
+          QURANPEDIA
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 
         </div>
       </div>
@@ -96,14 +97,6 @@
 <br>
 
 <body class="homepage px-[40px]">
-    <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
-        <div class="container">
-            <a class="navbar-brand">
-                QURANPEDIA
-            </a>
-            <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
-        </div>
-    </nav>
 
     <div class="container container flex flex-col p-0">
         <!-- Display the table with the data from the shahih_muslim table -->
