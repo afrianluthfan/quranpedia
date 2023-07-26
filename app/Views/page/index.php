@@ -1,80 +1,160 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>QURANPEDIA</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="" />
-    <meta name="og:site_name" content="" />
-    <meta name="og:title" content="" />
+<title>QURANPEDIA</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="description" content="" />
+<meta name="og:site_name" content="" />
+<meta name="og:title" content="" />
+<meta name="og:url" content="#" />
+<meta name="og:type" content="website" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 
-    <meta name="og:url" content="#" />
-    <meta name="og:type" content="website" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    
-    <!-- script tailwind -->
-    <script src="https://cdn.tailwindcss.com"></script>
+<!-- script tailwind -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          clifford: '#da373d',
+        }
+      }
+    }
+  }
+</script>
 
-    <link href="<?php echo base_url();?>/assets/images/apple-touch-icon.png" rel="apple-touch-icon" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="<?php echo base_url();?>/images/splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link rel="preload" as="font" href="<?php echo base_url();?>/assets/fonts/IndoPak.woff2" type="font/woff2" crossorigin />
-    <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="<?php echo base_url();?>/assets/css/stylex.css" />
-    <link rel="dns-prefetch" href="#" />
-    <link rel="manifest" href="<?php echo base_url();?>/assets/manifest.json" />
-    <link href="<?php echo base_url();?>/assets/css/indexx.css" rel="stylesheet" />
-    <link rel="icon" type="image/x-icon" href="<?php echo base_url();?>/assets/images/favicon.ico" />
-  </head>
+<!-- styling animasi button -->
+<style>
+    .grid-cell-wrapper {
+        transition: box-shadow 0.2s ease-in-out;
+        border-radius: 8px; /* Rounded corners */
+        overflow: hidden; /* Ensure the contents are clipped within the rounded corners */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 0.05em solid grey;
+    }
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
-      <div class="container">
-        <a class="navbar-brand">
-          QURANPEDIA </a
-        ><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    .grid-cell-wrapper:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 255, 0.15);
+    }
 
+    .grid-cell {
+        color: #0a2654; /* Set the text color to #0a2654 */
+        font-size: 20px; /* Default font size */
+    }
+
+    /* Media queries for different screen sizes */
+    @media screen and (max-width: 767px) {
+        .grid-cell {
+            font-size: 16px; /* Adjust font size for smaller screens */
+        }
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 1023px) {
+        .grid-cell {
+            font-size: 18px; /* Adjust font size for medium screens */
+        }
+    }
+</style>
+
+<link href="<?php echo base_url();?>/images/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="<?php echo base_url();?>/images/splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link rel="preload" as="font" href="<?php echo base_url();?>/assets/fonts/IndoPak.woff2" type="font/woff2" crossorigin />
+<link rel="stylesheet" href="<?php echo base_url();?>/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="<?php echo base_url();?>/assets/css/stylex.css" />
+<link rel="manifest" href="<?php echo base_url();?>/assets/manifest.json" />
+<link rel="icon" type="image/x-icon" href="<?php echo base_url();?>/assets/images/favicon.ico" />
+
+</head>
+
+<body class="homepage px-[40px] h-screen flex items-center justify-center">
+<nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="<?php base_url()?>">
+          QURANPEDIA
+        </a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <!-- Add your navigation links here if needed -->
+            </ul>
         </div>
-      </div>
-    </nav>
-<br>
+    </div>
+</nav>
 
-<body class="homepage">
-    <?php foreach ($shahih as $row) : ?>
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <!-- Display the data from the shahih_muslim table -->
-                    <div class="title">
-                        <h2><?= $row['kitab']; ?></h2>
-                        <p><?= $row['arab']; ?></p>
-                        <p><?= $row['terjemah']; ?></p>
-                    </div>
-                </div>
+<div class="container flex flex-col p-0 justify-center items-center flex-grow">
+    <div class="grid w-[75%] h-40 grid-cols-3 grid-rows-2 gap-4 justify-items-center items-center">
+
+        <!-- shahih bukhari -->
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="<?= base_url('/page/shahih_bukhari_view'); ?>" class="absolute h-full w-full top-0 left-0">
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Shahih Bukhari
             </div>
         </div>
-    <?php endforeach; ?>
+        
+
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="/shahih_muslim" class="absolute h-full w-full top-0 left-0">
+                <!-- This empty anchor will cover the whole cell -->
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Shahih Muslim
+            </div>
+        </div>
+
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="/tirmidzi" class="absolute h-full w-full top-0 left-0">
+                <!-- This empty anchor will cover the whole cell -->
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Tirmidzi
+            </div>
+        </div>
+
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="/nasai" class="absolute h-full w-full top-0 left-0">
+                <!-- This empty anchor will cover the whole cell -->
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Nasa'i
+            </div>
+        </div>
+
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="/sunan_abu_dawud" class="absolute h-full w-full top-0 left-0">
+                <!-- This empty anchor will cover the whole cell -->
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Sunan Abu Dawud
+            </div>
+        </div>
+
+        <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
+            <a href="/sunan_ibnu_majah" class="absolute h-full w-full top-0 left-0">
+                <!-- This empty anchor will cover the whole cell -->
+            </a>
+            <div class="flex items-center justify-center h-full w-full grid-cell">
+                Sunan Ibnu Majah
+            </div>
+        </div>
+
+    </div>
+</div>
+
 </body>
-
-
-  <!-- <script type="text/javascript">
-    var surah_number, surah_ayahs;
-  </script>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-  <script type="text/javascript">
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('sw.js');
-      });
-    }
-  </script> -->
 </html>

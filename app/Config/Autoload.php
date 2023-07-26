@@ -44,6 +44,7 @@ class Autoload extends AutoloadConfig
         'Config'      => APPPATH . 'Config',
         'Filesystem'  => APPPATH . 'ThirdParty/Filesystem',
         'App\Helpers' => APPPATH . 'Helpers',
+        'CodeIgniter\Pagination' => SYSTEMPATH . 'Pagination', // Added the Pagination namespace
     ];
 
     /**

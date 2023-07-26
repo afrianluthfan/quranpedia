@@ -2,6 +2,10 @@
 
 namespace Config;
 
+use CodeIgniter\Router\RouteCollection;
+use CodeIgniter\Router\Route;
+use CodeIgniter\Config\Services;
+
 // Create a new instance of our RouteCollection class.
 $routes = Services::routes();
 
@@ -11,15 +15,10 @@ $routes = Services::routes();
  * --------------------------------------------------------------------
  */
 $routes->setDefaultNamespace('App\Controllers');
-$routes->setDefaultController('ShahihMuslimContoller');
+$routes->setDefaultController('ShahihMuslimController');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override();
-// The Auto Routing (Legacy) is very dangerous. It is easy to create vulnerable apps
-// where controller filters or CSRF protection are bypassed.
-// If you don't want to define all routes, please use the Auto Routing (Improved).
-// Set `$autoRoutesImproved` to true in `app/Config/Feature.php` and set the following to true.
-// $routes->setAutoRoute(false);
 
 /*
  * --------------------------------------------------------------------
@@ -30,23 +29,9 @@ $routes->set404Override();
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 $routes->get('/', 'ShahihMuslimController::index');
-// $routes->get('page/(:num)', 'Detailv::akarkata');
-// $routes->get('/detailv/(:segment)', 'detailc::detail/$1');
-// $routes->get('surah/(:num)', 'SurahController::show/$1');
-// // $routes->get('detailv/(:segment)', 'Detailv::index/$1');
-// $routes->get('detailv/(:num)', 'Detailv::index/$1');
-
-// $routes->get('page/detailv/(:segment)', 'Detailv::getData/$1');
 $routes->get('page/detailv', 'Detailv::getData');
-
-// $routes->get('page/1', 'Detailv::getRootData');
-
 $routes->get('page/(:num)', 'Detailv::getRootData/$1');
-
-// $routes->get('/detailv', 'Detailv::akarkata');
-
-
-// $routes->get('/', 'Home::index');
+$routes->get('page/shahih_bukhari_view', 'Shahih_Bukhari::view'); // Add this line
 
 /*
  * --------------------------------------------------------------------
