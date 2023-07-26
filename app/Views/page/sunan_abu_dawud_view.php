@@ -49,9 +49,10 @@
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
       <div class="container">
-        <a class="navbar-brand">
-          QURANPEDIA </a
-        ><button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <a class="navbar-brand" href="<?= base_url() ?>">
+          QURANPEDIA
+        </a>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 
         </div>
       </div>
@@ -69,7 +70,7 @@
               </tr>
           </thead>
           <tbody>
-              <?php foreach ($shahih as $row) : ?>
+              <?php foreach ($abud as $row) : ?>
                   <tr>
                       <td class="p-4 w-[15%]">
                       <?php
@@ -79,6 +80,18 @@
                           break;
                         case 'shahih_bukhari':
                           echo 'Shahih Bukhari';
+                          break;
+                        case 'sunan_tirmidzi':
+                          echo 'Sunan Tirmidzi';
+                          break;
+                        case 'sunan_nasai':
+                          echo 'Sunan Nasa\'i';
+                          break;
+                        case 'sunan_abu_daud':
+                          echo 'Sunan Abu Dawud';
+                          break;
+                        case 'sunan_ibnu_majah':
+                          echo 'Sunan Ibnu Majah';
                           break;
                       } ?>
                       </td>

@@ -14,8 +14,9 @@ $routes = Services::routes();
  * Router Setup
  * --------------------------------------------------------------------
  */
+$routes->setAutoRoute(true);
 $routes->setDefaultNamespace('App\Controllers');
-$routes->setDefaultController('ShahihMuslimController');
+$routes->setDefaultController('Default_Controller');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override();
@@ -28,10 +29,15 @@ $routes->set404Override();
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'ShahihMuslimController::index');
+$routes->get('/', 'Default_Controller::index');
 $routes->get('page/detailv', 'Detailv::getData');
 $routes->get('page/(:num)', 'Detailv::getRootData/$1');
 $routes->get('page/shahih_bukhari_view', 'Shahih_Bukhari::view'); // Add this line
+$routes->get('page/shahih_muslim_view', 'Shahih_Muslim::view'); // Add this line
+$routes->get('page/sunan_tirmidzi_view', 'Sunan_Tirmidzi::view'); // Add this line
+$routes->get('page/sunan_nasai_view', 'Sunan_Nasai::view'); // Add this line
+$routes->get('page/sunan_abu_dawud_view', 'Sunan_Abu_dawud::view'); // Add this line
+$routes->get('page/sunan_ibnu_majah_view', 'Sunan_Ibnu_Majah::view'); // Add this line
 
 /*
  * --------------------------------------------------------------------

@@ -81,7 +81,7 @@
 <body class="homepage px-[40px] h-screen flex items-center justify-center">
 <nav class="navbar navbar-expand-lg navbar-dark bg-gold fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="<?php base_url()?>">
+        <a class="navbar-brand" href="<?= base_url()?>">
           QURANPEDIA
         </a>
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -109,7 +109,7 @@
         
 
         <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
-            <a href="/shahih_muslim" class="absolute h-full w-full top-0 left-0">
+            <a href="<?= base_url('/page/shahih_muslim_view'); ?>" class="absolute h-full w-full top-0 left-0">
                 <!-- This empty anchor will cover the whole cell -->
             </a>
             <div class="flex items-center justify-center h-full w-full grid-cell">
@@ -118,25 +118,25 @@
         </div>
 
         <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
-            <a href="/tirmidzi" class="absolute h-full w-full top-0 left-0">
+            <a href="<?= base_url('/page/sunan_tirmidzi_view'); ?>" class="absolute h-full w-full top-0 left-0">
                 <!-- This empty anchor will cover the whole cell -->
             </a>
             <div class="flex items-center justify-center h-full w-full grid-cell">
-                Tirmidzi
+                Sunan Tirmidzi
             </div>
         </div>
 
         <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
-            <a href="/nasai" class="absolute h-full w-full top-0 left-0">
+            <a href="<?= base_url('/page/sunan_nasai_view'); ?>" class="absolute h-full w-full top-0 left-0">
                 <!-- This empty anchor will cover the whole cell -->
             </a>
             <div class="flex items-center justify-center h-full w-full grid-cell">
-                Nasa'i
+                Sunan Nasa'i
             </div>
         </div>
 
         <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
-            <a href="/sunan_abu_dawud" class="absolute h-full w-full top-0 left-0">
+            <a href="<?= base_url('/page/sunan_abu_dawud_view'); ?>" class="absolute h-full w-full top-0 left-0">
                 <!-- This empty anchor will cover the whole cell -->
             </a>
             <div class="flex items-center justify-center h-full w-full grid-cell">
@@ -145,7 +145,7 @@
         </div>
 
         <div class="relative w-full h-full cursor-pointer grid-cell-wrapper">
-            <a href="/sunan_ibnu_majah" class="absolute h-full w-full top-0 left-0">
+            <a href="<?= base_url('/page/sunan_ibnu_majah_view'); ?>" class="absolute h-full w-full top-0 left-0">
                 <!-- This empty anchor will cover the whole cell -->
             </a>
             <div class="flex items-center justify-center h-full w-full grid-cell">

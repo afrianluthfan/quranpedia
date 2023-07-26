@@ -6,7 +6,7 @@ use App\Models\SunanIbnuMajahModel;
 
 class Sunan_Ibnu_Majah extends BaseController
 {
-    public function index()
+    public function view()
     {
         $model = new SunanIbnuMajahModel();
 
