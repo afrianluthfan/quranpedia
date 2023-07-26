@@ -152,8 +152,19 @@
                 Sunan Ibnu Majah
             </div>
         </div>
-
     </div>
+
+    <button class="w-[22rem] h-[5rem] border border-black rounded-full mt-[2rem]" onclick="redirectToTarget()">
+        tes
+    </button>
+
+    <script>
+        // JavaScript function to redirect to the target URL
+        function redirectToTarget() {
+            window.location.href = "<?= base_url('/page/all_kitab_view'); ?>"; // Replace this with your target URL
+        }
+    </script>
+
 </div>
 
 </body>

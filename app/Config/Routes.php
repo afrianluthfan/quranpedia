@@ -38,6 +38,7 @@ $routes->get('page/sunan_tirmidzi_view', 'Sunan_Tirmidzi::view'); // Add this li
 $routes->get('page/sunan_nasai_view', 'Sunan_Nasai::view'); // Add this line
 $routes->get('page/sunan_abu_dawud_view', 'Sunan_Abu_dawud::view'); // Add this line
 $routes->get('page/sunan_ibnu_majah_view', 'Sunan_Ibnu_Majah::view'); // Add this line
+$routes->get('page/all_kitab_view', 'All_Kitab::view'); // Add this line
 
 /*
  * --------------------------------------------------------------------
