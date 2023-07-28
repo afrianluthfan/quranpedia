@@ -154,7 +154,7 @@
         </div>
     </div>
 
-    <button class="w-[22rem] h-[5rem] border border-black rounded-full mt-[2rem]" onclick="redirectToTarget()">
+    <!-- <button class="w-[22rem] h-[5rem] border border-black rounded-full mt-[2rem]" onclick="redirectToTarget()">
         <div class="flex items-center justify-center h-full w-full grid-cell">
             Tampilan Seluruh Kitab
         </div>
@@ -163,9 +163,9 @@
     <script>
         // JavaScript function to redirect to the target URL
         function redirectToTarget() {
-            window.location.href = "<?= base_url('/page/all_kitab_view'); ?>"; // Replace this with your target URL
+            window.location.href = "</?= base_url('/page/all_kitab_view'); ?>"; // Replace this with your target URL
         }
-    </script>
+    </script> -->
 
 </div>
 
