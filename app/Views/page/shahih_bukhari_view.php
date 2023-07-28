@@ -137,9 +137,18 @@ use App\Controllers\Shahih_Bukhari;
                             break;
                         } ?>
                         </td>
+<<<<<<< HEAD
                         <td class="p-4">
                           <!-- </?=Shahih_Bukhari::light_stemming(Shahih_Bukhari:: -->
                         <?= Shahih_Bukhari::highlightTextWithRemove($row["arab"], Shahih_Bukhari::removeDiacritics($term)); ?></td>
+=======
+                        <?php $result = explode(' ', $row['arab']); ?>
+                        <td>
+                        <?php foreach($result as $words){ ?>
+                               <a href='#'><?= $words ?></a>
+                              <?php } ?>
+                            </td>
+>>>>>>> b30eee5df118cfa9c4c56d9ff5adf82dbb92fd94
                     </tr>
 
                     <?php
