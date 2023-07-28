@@ -100,6 +100,9 @@
               <?php endforeach; ?>
           </tbody>
       </table>
+
+      <!-- Display pagination links with the "default_full" template -->
+      <container class="flex flex-end relative justify-end flex-gap-3 w-max-lg"><?= $pager->links('group3', 'custom1'); ?></container>
     </div>
 </body>
 
