@@ -137,8 +137,22 @@ use App\Controllers\Shahih_Bukhari;
                             break;
                         } ?>
                         </td>
-                        <td class="p-4"><?= Shahih_Bukhari::light_stemming(Shahih_Bukhari::highlightTextWithRemove($row["arab"], Shahih_Bukhari::removeDiacritics('الله'))); ?></td>
+                        <td class="p-4">
+                          <!-- </?=Shahih_Bukhari::light_stemming(Shahih_Bukhari:: -->
+                        <?= Shahih_Bukhari::highlightTextWithRemove($row["arab"], Shahih_Bukhari::removeDiacritics($term)); ?></td>
                     </tr>
+
+                    <?php
+                    
+                      $array = ['asas', 'bb', 'ccccc'];
+                      $result = [];
+
+                      foreach ($array as $string) {
+                      $result[] = str_split($string);
+                        }
+                    ?>
+
+
                 <?php endforeach; ?>
             </tbody>
         </table>
