@@ -78,7 +78,7 @@ class Shahih_Bukhari extends BaseController
     {
         // Load the ShahihBukhariModel using dependency injection
         $model = new ShahihBukhariModel();
-
+        
         // Get the current page from the query string, default to 1 if not set
         $currentPage = $this->request->getVar('page') ?? 1;
 
@@ -93,20 +93,7 @@ class Shahih_Bukhari extends BaseController
             'pager'  => $pager,
         ];
         // Load the view file directly without creating a new folder
-
-        if($words != ''){
-            $highlighted = Shahih_Bukhari::highlightText($shahih, $words);
-            $data = [
-                'shahih' => $highlighted,
-                'pager'  => $pager,
-            ];
-            return view('page/shahih_bukhari_view/highlight/', $data);
-        } else {
-            $data = [
-                'shahih' => $shahih,
-                'pager'  => $pager,
-            ];
             return view('page/shahih_bukhari_view', $data);
-        }
+    
     }
 }

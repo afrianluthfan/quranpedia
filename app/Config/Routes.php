@@ -40,7 +40,7 @@ $routes->get('page/sunan_abu_dawud_view', 'Sunan_Abu_dawud::view'); // Add this 
 $routes->get('page/sunan_ibnu_majah_view', 'Sunan_Ibnu_Majah::view'); // Add this line
 $routes->get('page/all_kitab_view', 'All_Kitab::view'); // Add this line
 
-$routes->get('page/shahih_bukhari_view/highlight/(:any)', 'Shahih_Bukhari::view'); // Add this line
+$routes->get('page/shahih_bukhari_view/highlight/(:any)', 'Shahih_Bukhari::view/$1'); // Add this line
 
 /*
  * --------------------------------------------------------------------

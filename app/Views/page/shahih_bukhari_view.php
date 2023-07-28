@@ -104,7 +104,6 @@
 <br>
 
 <body class="homepage px-[40px]">
-
   <div class="container container flex flex-col p-0">
     <!-- Display the table with the data from the shahih_muslim table -->
     <table class="table w-5rem border border-black justify-center">
@@ -115,6 +114,7 @@
         </tr>
       </thead>
       <tbody>
+      <?= $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; ?>
         <?php foreach ($shahih as $row) : ?>
           <tr>
             <td class="p-4 w-[15%]">
@@ -144,7 +144,9 @@
             <?php $result = explode(' ', $row['arab']); ?>
             <td>
               <?php foreach ($result as $words) { ?>
-                <a href=" <?= base_url('/page/shahih_bukhari_view/highlight/' . $words) ?> "><?= $words ?></a>
+                <?php if($url){?>
+                <a href=" <?= base_url('/page/shahih_bukhari_view/highlight/' . $words) ?> "><?= Shahih_Bukhari::highlightText($row['arab'], $words) ?></a>
+                  <?php } ?>
               <?php } ?>
 
 
@@ -152,6 +154,7 @@
           </tr>
 
         <?php endforeach; ?>
+        
       </tbody>
     </table>
 
