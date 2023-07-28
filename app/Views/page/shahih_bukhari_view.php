@@ -64,7 +64,11 @@
         }
     </style>
 
-    <link href="<?php echo base_url();?>/assets/images/apple-touch-icon.png" rel="apple-touch-icon" />
+    <link href="<?php
+
+use App\Controllers\Shahih_Bukhari;
+
+ echo base_url();?>/assets/images/apple-touch-icon.png" rel="apple-touch-icon" />
     <link href="<?php echo base_url();?>/images/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
     <link href="<?php echo base_url();?>/images/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
     <link href="<?php echo base_url();?>/images/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
@@ -133,7 +137,7 @@
                             break;
                         } ?>
                         </td>
-                        <td class="p-4"><?= $row['arab']; ?></td>
+                        <td class="p-4"><?= Shahih_Bukhari::light_stemming(Shahih_Bukhari::highlightTextWithRemove($row["arab"], Shahih_Bukhari::removeDiacritics('الله'))); ?></td>
                     </tr>
                 <?php endforeach; ?>
             </tbody>
