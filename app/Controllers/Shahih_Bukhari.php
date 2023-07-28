@@ -74,7 +74,7 @@ class Shahih_Bukhari extends BaseController
     //     return $term;
     //}
 
-    public function view()
+    public function view($words=false)
     {
         // Load the ShahihBukhariModel using dependency injection
         $model = new ShahihBukhariModel();
@@ -93,6 +93,20 @@ class Shahih_Bukhari extends BaseController
             'pager'  => $pager,
         ];
         // Load the view file directly without creating a new folder
-        return view('page/shahih_bukhari_view', $data);
+
+        if($words != ''){
+            $highlighted = Shahih_Bukhari::highlightText($shahih, $words);
+            $data = [
+                'shahih' => $highlighted,
+                'pager'  => $pager,
+            ];
+            return view('page/shahih_bukhari_view/highlight/', $data);
+        } else {
+            $data = [
+                'shahih' => $shahih,
+                'pager'  => $pager,
+            ];
+            return view('page/shahih_bukhari_view', $data);
+        }
     }
 }
