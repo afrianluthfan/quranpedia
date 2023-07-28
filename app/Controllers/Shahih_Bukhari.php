@@ -7,7 +7,7 @@ use App\Models\ShahihBukhariModel;
 class Shahih_Bukhari extends BaseController
 {
     public static function highlightText($text, $term) {
-        $highlightedText = str_replace($term, '<strong>' . $term . '</strong>', $text);
+        $highlightedText = str_replace($term, '<strong class="text-red-500">' . $term . '</strong>', $text);
         return $highlightedText;
     }
     
@@ -91,6 +91,7 @@ class Shahih_Bukhari extends BaseController
         $data = [
             'shahih' => $shahih,
             'pager'  => $pager,
+            'words' => $words ? $words : '',
         ];
         // Load the view file directly without creating a new folder
             return view('page/shahih_bukhari_view', $data);
