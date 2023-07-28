@@ -111,15 +111,27 @@
                 <?php foreach ($shahih as $row) : ?>
                     <tr>
                         <td class="p-4 w-[15%]">
-                            <?php
-                            switch ($row['kitab']) {
-                                case 'shahih_muslim':
-                                    echo 'Shahih Muslim';
-                                    break;
-                                case 'shahih_bukhari':
-                                    echo 'Shahih Bukhari';
-                                    break;
-                            } ?>
+                          <?php
+                        switch($row['kitab']){
+                          case 'shahih_muslim':
+                            echo 'Shahih Muslim';
+                            break;
+                          case 'shahih_bukhari':
+                            echo 'Shahih Bukhari';
+                            break;
+                          case 'sunan_tirmidzi':
+                            echo 'Sunan Tirmidzi';
+                            break;
+                          case 'sunan_nasai':
+                            echo 'Sunan Nasa\'i';
+                            break;
+                          case 'sunan_abu_daud':
+                            echo 'Sunan Abu Dawud';
+                            break;
+                          case 'sunan_ibnu_majah':
+                            echo 'Sunan Ibnu Majah';
+                            break;
+                        } ?>
                         </td>
                         <td class="p-4"><?= $row['arab']; ?></td>
                     </tr>
