@@ -19,7 +19,7 @@ class Shahih_Bukhari extends BaseController
 
     public static function highlightTextWithRemove($text, $term)
     {
-        $highlightedText = str_replace($term, '<strong style="color: red;">' . $term . '</strong>', Shahih_Bukhari::removeDiacritics($text));
+        $highlightedText = Shahih_Bukhari::highlightText(Shahih_Bukhari::removeDiacritics($text), Shahih_Bukhari::removeDiacritics($term));
         return $highlightedText;
     }
 
