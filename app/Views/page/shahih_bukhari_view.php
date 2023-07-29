@@ -109,6 +109,7 @@
   <link rel="dns-prefetch" href="#" />
   <link rel="manifest" href="<?php echo base_url(); ?>/assets/manifest.json" />
   <link href="<?php echo base_url(); ?>/assets/css/indexx.css" rel="stylesheet" />
+  <link href="<?= base_url('css/highlight.css') ?>" rel="stylesheet">
   <link rel="icon" type="image/x-icon" href="<?php echo base_url(); ?>/assets/images/favicon.ico" />
 </head>
 
@@ -135,10 +136,13 @@
           <th class="p-4">Hadits</th>
         </tr>
       </thead>
+
       <tbody>
-        <?php $url = 'http://' . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']; ?>
-        <?php $tokens = explode('/', $url); ?>
-        <?php foreach ($shahih as $row): ?>
+        <?php
+        $request = service('request');
+        $selectedWord = $request->getGet('highlight');
+
+        foreach ($shahih as $row): ?>
           <tr>
             <td class="p-4 w-[15%]">
               <?php
@@ -149,38 +153,22 @@
                 case 'shahih_bukhari':
                   echo 'Shahih Bukhari';
                   break;
-                case 'sunan_tirmidzi':
-                  echo 'Sunan Tirmidzi';
-                  break;
-                case 'sunan_nasai':
-                  echo 'Sunan Nasa\'i';
-                  break;
-                case 'sunan_abu_daud':
-                  echo 'Sunan Abu Dawud';
-                  break;
-                case 'sunan_ibnu_majah':
-                  echo 'Sunan Ibnu Majah';
-                  break;
               } ?>
             </td>
 
-            <?php $result = explode(' ', $row['arab']); ?>
-            <td>
-              
-              <?php if(strpos($url, $tokens[sizeof($tokens)-1])) { ?>
-                <?php foreach ($result as $words) { ?>
-                  <a href=" <?= base_url('/page/shahih_bukhari_view/highlight/' . $words) ?> "><?= Shahih_Bukhari::highlightText($words, $words)  ?></a>
-                  <?php } ?>
-                  <?php } else { ?>
-                    <a href=" <?= base_url('/page/shahih_bukhari_view/highlight/' . $words) ?> "><?= '?'; ?></a>
-              <?php } ?>
-
-
+            <td class="p-4">
+              <?php
+              $words = explode(' ', $row['arab']);
+              foreach ($words as $word) { ?>
+                <a href=" <?= base_url('/page/shahih_bukhari_view/?highlight=' . $word) ?>">
+                  <?php echo Shahih_Bukhari::highlightText($word, $selectedWord); ?>
+                </a>
+                <?php
+              }
+              ?>
             </td>
           </tr>
-
         <?php endforeach; ?>
-
       </tbody>
     </table>
 
@@ -192,16 +180,16 @@
 </body>
 
 <!-- <script type="text/javascript">
-    var surah_number, surah_ayahs;
-  </script>
-  <script src="/js/jquery.min.js"></script>
-  <script src="/js/main.js"></script>
-  <script type="text/javascript">
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('sw.js');
-      });
-    }
-  </script> -->
+var surah_number, surah_ayahs;
+</script>
+<script src="/js/jquery.min.js"></script>
+<script src="/js/main.js"></script>
+<script type="text/javascript">
+if ('serviceWorker' in navigator) {
+window.addEventListener('load', function () {
+  navigator.serviceWorker.register('sw.js');
+});
+}
+</script> -->
 
 </html>

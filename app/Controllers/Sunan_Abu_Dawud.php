@@ -22,7 +22,7 @@ class Sunan_Abu_Dawud extends BaseController
 
         $data = [
             'abud' => $abud,
-            'pager'  => $pager,
+            'pager' => $pager,
         ];
         // Load the view file directly without creating a new folder
         return view('page/sunan_abu_dawud_view', $data);

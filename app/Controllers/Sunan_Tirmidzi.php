@@ -22,7 +22,7 @@ class Sunan_Tirmidzi extends BaseController
 
         $data = [
             'tirm' => $tirm,
-            'pager'  => $pager,
+            'pager' => $pager,
         ];
         // Load the view file directly without creating a new folder
         return view('page/sunan_tirmidzi_view', $data);
