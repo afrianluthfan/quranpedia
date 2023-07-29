@@ -10,6 +10,15 @@ class ShahihBukhariModel extends Model
     protected $primaryKey = 'id';
     protected $allowedFields = ['kitab', 'arab', 'terjemah'];
 
+    public function paginateFiltered($selectedWord, $perPage = 10, $group = 'default')
+    {
+        // Filter the rows based on $selectedWord
+        $this->where('arab LIKE', "%$selectedWord%");
+
+        // Call the paginate() method with the filtered result set
+        return $this->paginate($perPage, $group);
+    }
+
     public function getShahihBukhariData()
     {
         return $this->findAll();

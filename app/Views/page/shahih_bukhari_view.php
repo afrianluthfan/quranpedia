@@ -128,6 +128,12 @@
 
 <body class="homepage px-[40px]">
   <div class="container container flex flex-col p-0">
+    <!-- Add a "Clear Filter" button -->
+    <div class="pb-5 text-right">
+      <button class="p-2 text-white font-semibold rounded-md transition duration-150 bg-gold"
+        onclick="window.location.href = '<?= base_url('/page/shahih_bukhari_view') ?>'">Clear Filter</button>
+    </div>
+
     <!-- Display the table with the data from the shahih_muslim table -->
     <table class="table w-5rem border border-black justify-center">
       <thead>
@@ -144,44 +150,41 @@
         $selectedWord = $request->getGet('highlight');
 
         foreach ($shahih as $row):
-          // Check if $selectedWord exists in the current $row
-          if (strpos($row['arab'], $selectedWord) !== false):
-            // Display the row
-            ?>
-            <tr>
-              <td class="p-4 w-[5%]">
-                <?php
-                echo $row['id'];
-                ?>
-              </td>
+          // Display the row
+          ?>
+          <tr>
+            <td class="p-4 w-[5%]">
+              <?php
+              echo $row['id'];
+              ?>
+            </td>
 
-              <td class="p-4 w-[15%]">
-                <?php
-                switch ($row['kitab']) {
-                  case 'shahih_muslim':
-                    echo 'Shahih Muslim';
-                    break;
-                  case 'shahih_bukhari':
-                    echo 'Shahih Bukhari';
-                    break;
-                } ?>
-              </td>
+            <td class="p-4 w-[15%]">
+              <?php
+              switch ($row['kitab']) {
+                case 'shahih_muslim':
+                  echo 'Shahih Muslim';
+                  break;
+                case 'shahih_bukhari':
+                  echo 'Shahih Bukhari';
+                  break;
+              } ?>
+            </td>
 
-              <td class="p-4">
+            <td class="p-4">
+              <?php
+              $words = explode(' ', $row['arab']);
+              foreach ($words as $word) { ?>
+                <a href=" <?= base_url('/page/shahih_bukhari_view/?highlight=' . $word) ?>">
+                  <?php echo Shahih_Bukhari::highlightTextWithRemove($word, $selectedWord); ?>
+                </a>
                 <?php
-                $words = explode(' ', $row['arab']);
-                foreach ($words as $word) { ?>
-                  <a href=" <?= base_url('/page/shahih_bukhari_view/?highlight=' . $word) ?>">
-                    <?php echo Shahih_Bukhari::highlightTextWithRemove($word, $selectedWord); ?>
-                  </a>
-                  <?php
-                }
-                ?>
-              </td>
+              }
+              ?>
+            </td>
 
-            </tr>
-            <?php
-          endif;
+          </tr>
+          <?php
         endforeach; ?>
       </tbody>
     </table>
@@ -192,7 +195,6 @@
     </container>
   </div>
 </body>
-
 
 <!-- <script type="text/javascript">
 var surah_number, surah_ayahs;

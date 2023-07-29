@@ -38,8 +38,11 @@ class Shahih_Bukhari extends BaseController
         // Get the current page from the query string, default to 1 if not set
         $currentPage = $this->request->getVar('page') ?? 1;
 
-        // Fetch records with pagination using the model's paginate() method
-        $shahih = $model->paginate(10, 'group1'); // 10 records per page, 'group1' is the pagination group
+        // Get the selected word from the query string
+        $selectedWord = $this->request->getGet('highlight');
+
+        // Fetch records with pagination using the model's paginateFiltered() method
+        $shahih = $model->paginateFiltered($selectedWord, 10, 'group1'); // 10 records per page, 'group1' is the pagination group
 
         // Get the pagination links
         $pager = $model->pager;
@@ -51,6 +54,5 @@ class Shahih_Bukhari extends BaseController
         ];
         // Load the view file directly without creating a new folder
         return view('page/shahih_bukhari_view', $data);
-
     }
 }
