@@ -20,6 +20,7 @@ class Shahih_Bukhari extends BaseController
         'يا',
         'ية',
         'يات',
+        'أ',
     ];
 
     private $prefixes = [

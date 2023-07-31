@@ -164,12 +164,24 @@
                 case 'shahih_bukhari':
                   echo 'Shahih Bukhari';
                   break;
+                case 'sunan_tirmidzi':
+                  echo 'Sunan Tirmidzi';
+                  break;
+                case 'sunan_nasai':
+                  echo 'Sunan Nasa\'i';
+                  break;
+                case 'sunan_abu_daud':
+                  echo 'Sunan Abu Dawud';
+                  break;
+                case 'sunan_ibnu_majah':
+                  echo 'Sunan Ibnu Majah';
+                  break;
               } ?>
             </td>
 
             <td class="p-4">
               <?php
-              $words = explode(' ', $row['arab']);
+              $words = preg_split('/\s+/', $row['arab']);
               foreach ($words as $word) {
                 $removedDiacritics = Shahih_Bukhari::removeDiacritics($word);
                 $stemmedWord = $controller->arabicStem($removedDiacritics);
@@ -191,6 +203,7 @@
               }
               ?>
             </td>
+
           </tr>
           <?php
         endforeach;
@@ -199,7 +212,7 @@
         <container class="grid w-[100%] grid-cols-2 grid-rows-1 gap-4 items-center">
 
           <div class="text-left py-4">
-            <div class="p-2 w-full max-w-[50%] h-[100%] text-white font-semibold rounded-md bg-gold">
+            <div class="p-2 w-full max-w-[50%] h-[100%] text-white font-semibold rounded-md bg-gold opacity-75">
               <?php
               $stemmedWord = $controller->arabicStem($selectedWord);
               if ($stemmedWord == '') {
