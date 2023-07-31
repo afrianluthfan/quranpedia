@@ -51,10 +51,14 @@ class Shahih_Bukhari extends BaseController
 
     public function arabicStem($word)
     {
+        // Remove diacritics
+        $word = Shahih_Bukhari::removeDiacritics($word);
+
         // Remove leading and trailing spaces
         $word = trim($word);
-        if ($word === Shahih_Bukhari::removeDiacritics('اللَّهُ')) {
-            $word = 'له';
+
+        if ($word === 'الله') {
+            $word = 'اله';
         } else {
             // Remove known suffixes
             $suffixFound = true;
@@ -83,10 +87,6 @@ class Shahih_Bukhari extends BaseController
                 }
             }
         }
-
-        // Remove diacritics
-        $word = Shahih_Bukhari::removeDiacritics($word);
-
         return $word;
     }
 

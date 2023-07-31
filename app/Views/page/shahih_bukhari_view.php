@@ -174,6 +174,9 @@
                 $removedDiacritics = Shahih_Bukhari::removeDiacritics($word);
                 $stemmedWord = $controller->arabicStem($removedDiacritics);
                 if ($stemmedSelectedWord !== null && $stemmedWord === $stemmedSelectedWord) {
+                  if ($stemmedSelectedWord === 'له') {
+                    $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $word . '</span>';
+                  }
                   if ($controller->arabicStem($stemmedWord) === $stemmedSelectedWord) {
                     $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $removedDiacritics . '</span>';
                   } else {
@@ -194,30 +197,32 @@
         ?>
 
         <container class="grid w-[100%] grid-cols-2 grid-rows-1 gap-4 items-center">
+
           <div class="text-left py-4">
             <div class="p-2 w-full max-w-[50%] h-[100%] text-white font-semibold rounded-md bg-gold">
               <?php
               $stemmedWord = $controller->arabicStem($selectedWord);
               if ($stemmedWord == '') {
                 echo '<p>Tidak ada kata yang dipilih</p>';
+              } else if ($stemmedWord == '') {
+
               } else {
                 $stemmedWord = Shahih_Bukhari::removeDiacritics($stemmedWord);
                 $splitWord = mb_str_split($stemmedWord);
                 $splitWord = implode(' ', $splitWord);
                 ?>
-                <div>
+                  <div>
                   <?php echo '<p>Kata yang dipilih :' . $selectedWord;
                   echo '</p>'; ?>
-                </div>
-                <div>
-                  <?php
-                  echo '<p>Akar Kata :' . $splitWord;
-                  echo '</p>';
-                  ?>
-                </div>
-              <?php } ?>
+                  </div>
+                  <div>
+                    <?php
+                    echo '<p>Akar Kata :' . $splitWord;
+                    echo '</p>';
+                    ?>
+                  </div>
+                <?php } ?>
             </div>
-
           </div>
 
           <div class=" text-right">
@@ -226,6 +231,7 @@
               Clear Filter
             </button>
           </div>
+
         </container>
 
       </tbody>
