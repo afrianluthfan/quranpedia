@@ -128,12 +128,6 @@
 
 <body class="homepage px-[40px]">
   <div class="container container flex flex-col p-0">
-    <!-- Add a "Clear Filter" button -->
-    <div class="pb-5 text-right">
-      <button class="p-2 text-white font-semibold rounded-md transition duration-150 bg-gold"
-        onclick="window.location.href = '<?= base_url('/page/shahih_bukhari_view') ?>'">Clear Filter</button>
-    </div>
-
     <!-- Display the table with the data from the shahih_muslim table -->
     <table class="table w-5rem border border-black justify-center">
       <thead>
@@ -149,14 +143,16 @@
         $request = service('request');
         $selectedWord = $request->getGet('highlight');
 
-        foreach ($shahih as $row):
-          // Display the row
-          ?>
+        if ($selectedWord === null) {
+          $stemmedSelectedWord = null;
+        } else {
+          $stemmedSelectedWord = $controller->arabicStem($selectedWord);
+        }
+
+        foreach ($shahih as $row): ?>
           <tr>
             <td class="p-4 w-[5%]">
-              <?php
-              echo $row['id'];
-              ?>
+              <?php echo $row['id']; ?>
             </td>
 
             <td class="p-4 w-[15%]">
@@ -174,39 +170,71 @@
             <td class="p-4">
               <?php
               $words = explode(' ', $row['arab']);
-              foreach ($words as $word) { ?>
-                <a href=" <?= base_url('/page/shahih_bukhari_view/?highlight=' . $word) ?>">
-                  <?php echo Shahih_Bukhari::highlightTextWithRemove($word, $selectedWord); ?>
-                </a>
-                <?php
+              foreach ($words as $word) {
+                $removedDiacritics = Shahih_Bukhari::removeDiacritics($word);
+                $stemmedWord = $controller->arabicStem($removedDiacritics);
+                if ($stemmedSelectedWord !== null && $stemmedWord === $stemmedSelectedWord) {
+                  if ($controller->arabicStem($stemmedWord) === $stemmedSelectedWord) {
+                    $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $removedDiacritics . '</span>';
+                  } else {
+                    $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $removedDiacritics . '</span>';
+                  }
+                  echo '<a href="' . base_url('/page/shahih_bukhari_view/?highlight=' . $word) . '">' . Shahih_Bukhari::removeDiacritics($highlightedWord) . '</a> ';
+                } elseif (Shahih_Bukhari::isMarifah($word)) {
+                  echo '<a class="text-gray-500 text-decoration-line: underline" href="' . base_url('/page/shahih_bukhari_view/?highlight=' . $word) . '">' . $removedDiacritics . '</a> ';
+                } else {
+                  echo $removedDiacritics . ' ';
+                }
               }
               ?>
             </td>
-
           </tr>
           <?php
-        endforeach; ?>
+        endforeach;
+        ?>
+
+        <container class="grid w-[100%] grid-cols-2 grid-rows-1 gap-4 items-center">
+          <div class="text-left py-4">
+            <div class="p-2 w-full max-w-[50%] h-[100%] text-white font-semibold rounded-md bg-gold">
+              <?php
+              $stemmedWord = $controller->arabicStem($selectedWord);
+              if ($stemmedWord == '') {
+                echo '<p>Tidak ada kata yang dipilih</p>';
+              } else {
+                $stemmedWord = Shahih_Bukhari::removeDiacritics($stemmedWord);
+                $splitWord = mb_str_split($stemmedWord);
+                $splitWord = implode(' ', $splitWord);
+                ?>
+                <div>
+                  <?php echo '<p>Kata yang dipilih :' . $selectedWord;
+                  echo '</p>'; ?>
+                </div>
+                <div>
+                  <?php
+                  echo '<p>Akar Kata :' . $splitWord;
+                  echo '</p>';
+                  ?>
+                </div>
+              <?php } ?>
+            </div>
+
+          </div>
+
+          <div class=" text-right">
+            <button class="p-2 text-white font-semibold rounded-md transition duration-150 bg-gold"
+              onclick="window.location.href = '<?= base_url('/page/shahih_bukhari_view') ?>'">
+              Clear Filter
+            </button>
+          </div>
+        </container>
+
       </tbody>
     </table>
 
-    <!-- Display pagination links with the "default_full" template -->
     <container class="flex flex-end relative justify-end flex-gap-3 w-max-lg">
       <?= $pager->links('group1', 'custom1'); ?>
     </container>
   </div>
 </body>
-
-<!-- <script type="text/javascript">
-var surah_number, surah_ayahs;
-</script>
-<script src="/js/jquery.min.js"></script>
-<script src="/js/main.js"></script>
-<script type="text/javascript">
-if ('serviceWorker' in navigator) {
-window.addEventListener('load', function () {
-  navigator.serviceWorker.register('sw.js');
-});
-}
-</script> -->
 
 </html>
