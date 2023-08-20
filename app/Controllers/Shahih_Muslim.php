@@ -30,6 +30,7 @@ class Shahih_Muslim extends BaseController
         'ب',
         'ك',
         'ل',
+        'أ',
     ];
 
     public static function removeDiacritics($text)

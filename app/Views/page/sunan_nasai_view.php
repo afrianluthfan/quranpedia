@@ -135,6 +135,7 @@
           <th class="p-4">ID</th>
           <th class="p-4">Kitab</th>
           <th class="p-4">Hadits</th>
+          <th class="p-4">Terjemah</th>
         </tr>
       </thead>
 
@@ -148,6 +149,10 @@
         } else {
           $stemmedSelectedWord = $controller->arabicStem($selectedWord);
         }
+
+        //Initializing count
+        $count = 0;
+        $highlightedWords = [];
 
         foreach ($nasa as $row): ?>
           <tr>
@@ -188,13 +193,23 @@
                 if ($stemmedSelectedWord !== null && $stemmedWord === $stemmedSelectedWord) {
                   if ($stemmedSelectedWord === 'له') {
                     $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $word . '</span>';
+                    $toDisplay = $word;
                   }
                   if ($controller->arabicStem($stemmedWord) === $stemmedSelectedWord) {
                     $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $removedDiacritics . '</span>';
+                    $toDisplay = $removedDiacritics;
                   } else {
                     $highlightedWord = '<span class="font-bold text-red-500 text-decoration-line: underline">' . $removedDiacritics . '</span>';
+                    $toDisplay = $removedDiacritics;
                   }
                   echo '<a href="' . base_url('/page/sunan_nasai_view/?highlight=' . $word) . '">' . Sunan_Nasai::removeDiacritics($highlightedWord) . '</a> ';
+                  if (array_key_exists($toDisplay, $highlightedWords)) {
+                    // Increment the count for the existing highlighted word
+                    $highlightedWords[$toDisplay]['count']++;
+                  } else {
+                    // Add the new highlighted word to the array with a count of 1
+                    $highlightedWords[$toDisplay] = ['word' => $toDisplay, 'count' => 1];
+                  }
                 } elseif (Sunan_Nasai::isMarifah($word)) {
                   echo '<a class="text-gray-500 text-decoration-line: underline" href="' . base_url('/page/sunan_nasai_view/?highlight=' . $word) . '">' . $removedDiacritics . '</a> ';
                 } else {
@@ -202,6 +217,10 @@
                 }
               }
               ?>
+            </td>
+
+            <td class="p-4 w-[40%]">
+              <?= $row['terjemah']; ?>
             </td>
 
           </tr>
@@ -225,16 +244,16 @@
                 $splitWord = implode(' ', $splitWord);
                 ?>
                   <div>
-                  <?php echo '<p>Kata yang dipilih :' . $selectedWord;
+                  <?php echo '<p>Kata yang dipilih : ' . Sunan_Nasai::removeDiacritics($selectedWord);
                   echo '</p>'; ?>
                   </div>
                   <div>
                     <?php
-                    echo '<p>Akar Kata :' . $splitWord;
+                    echo '<p>Akar Kata : ' . $splitWord;
                     echo '</p>';
                     ?>
                   </div>
-                <?php } ?>
+              <?php } ?>
             </div>
           </div>
 
@@ -249,6 +268,25 @@
 
       </tbody>
     </table>
+
+    <div class="text-left py-4">
+      <div class="p-2 w-full max-w-[50%] h-[100%] text-white font-semibold rounded-md bg-gold opacity-75">
+        <div>
+          <?php
+          if (empty($highlightedWords)) {
+            echo "Silakan pilih salah satu isim ma'rifat.";
+          } else {
+            echo 'Daftar Isim Ma\'rifat pada halaman ini<br>';
+            foreach ($highlightedWords as $toDisplay => $data) {
+              echo 'Kata ';
+              echo $toDisplay . ' ';
+              echo 'tertulis ' . $data['count'] . ' kali. <br>';
+            }
+          }
+          ?>
+        </div>
+      </div>
+    </div>
 
     <container class="flex flex-end relative justify-end flex-gap-3 w-max-lg">
       <?= $pager->links('group4', 'custom1'); ?>

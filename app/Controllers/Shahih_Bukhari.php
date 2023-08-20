@@ -39,8 +39,6 @@ class Shahih_Bukhari extends BaseController
         return $normalizedText;
     }
 
-
-
     public static function isMarifah($word)
     {
         // Arabic definite article prefix is "ال"
