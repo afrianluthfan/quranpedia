@@ -107,7 +107,7 @@ class Shahih_Muslim extends BaseController
         $stemmedSelectedWord = $this->arabicStem($selectedWord);
 
         // Fetch records with pagination using the model's paginateFiltered() method
-        $musl = $model->paginateFiltered($selectedWord, 100, 'group2'); // 10 records per page, 'group1' is the pagination group
+        $musl = $model->paginateFiltered($selectedWord, 10, 'group2'); // 10 records per page, 'group1' is the pagination group
 
         // Get the pagination links
         $pager = $model->pager;
