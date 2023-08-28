@@ -279,7 +279,7 @@
           if (empty($highlightedWords)) {
             echo "Silakan pilih salah satu isim ma'rifat.";
           } else {
-            echo 'Daftar Isim Ma\'rifat pada halaman ini<br>';
+            echo 'Daftar kata derivatif pada halaman ini<br>';
             foreach ($highlightedWords as $toDisplay => $data) {
               echo 'Kata ';
               echo $toDisplay . ' ';
